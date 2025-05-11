@@ -2012,5 +2012,987 @@
       "US": "Often pronounced with an 'oh' sound: 'YO-ghurt'",
       "UK": "Typically pronounced with short 'o': 'YOG-urt'"
     }
+  },
+  {
+    "term": "Zucchini",
+    "phonetic": "/zuːˈkiːni/",
+    "pronunciationVariants": [
+      {
+        "variant": "Standard",
+        "phonetic": "/zuːˈkiːni/"
+      },
+      {
+        "variant": "Italian",
+        "phonetic": "/dzukˈkiːni/"
+      }
+    ],
+    "hearItNowUrl": "https://quickpronounce.site/term/Zucchini",
+    "exampleSentences": [
+      "We grew zucchini in our garden.",
+      "Zucchini bread is delicious."
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Pronouncing it as 'zoo-chee-nee'.",
+        "tip": "It's 'zoo-KEE-nee' - the 'ch' is a hard 'k' sound"
+      },
+      {
+        "mistake": "Stressing the wrong syllable.",
+        "tip": "Stress is on the second syllable: zoo-KEE-nee"
+      }
+    ],
+    "partOfSpeech": "Noun",
+    "regionSpecificDifferences": {
+      "Note": "The Italian pronunciation differs"
+    }
+  },
+  {
+    "term": "Abolish",
+    "phonetic": "/əˈbɒlɪʃ/",
+    "pronunciationVariants": [
+      {
+        "variant": "Standard",
+        "phonetic": "/əˈbɒlɪʃ/"
+      }
+    ],
+    "hearItNowUrl": "https://quickpronounce.site/term/Abolish",
+    "exampleSentences": [
+      "They want to abolish the outdated law.",
+      "Slavery was abolished in the 19th century."
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Stressing the first syllable.",
+        "tip": "Stress is on the second syllable: a-BOL-ish"
+      },
+      {
+        "mistake": "Pronouncing the 'o' as long.",
+        "tip": "The 'o' is short like in 'lot'"
+      }
+    ],
+    "partOfSpeech": "Verb",
+    "regionSpecificDifferences": {
+      "Note": "Pronunciation is generally consistent"
+    }
+  },
+  {
+    "term": "Anonymous",
+    "phonetic": "/əˈnɒnɪməs/",
+    "pronunciationVariants": [
+      {
+        "variant": "Standard",
+        "phonetic": "/əˈnɒnɪməs/"
+      }
+    ],
+    "hearItNowUrl": "https://quickpronounce.site/term/Anonymous",
+    "exampleSentences": [
+      "The donation was made by an anonymous benefactor.",
+      "She posted the comment anonymously."
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Pronouncing it as 'an-on-ee-mus'.",
+        "tip": "It's 'a-NON-i-mus' - the 'y' is short 'i' sound"
+      },
+      {
+        "mistake": "Stressing the wrong syllable.",
+        "tip": "Stress is on the second syllable: a-NON-i-mus"
+      }
+    ],
+    "partOfSpeech": "Adjective",
+    "regionSpecificDifferences": {
+      "Note": "Pronunciation is generally consistent"
+    }
+  },
+  {
+    "term": "Amphibian",
+    "phonetic": "/æmˈfɪbiən/",
+    "pronunciationVariants": [
+      {
+        "variant": "Standard",
+        "phonetic": "/æmˈfɪbiən/"
+      }
+    ],
+    "hearItNowUrl": "https://quickpronounce.site/term/Amphibian",
+    "exampleSentences": [
+      "Frogs are amphibians that live both in water and on land.",
+      "The biology class studied amphibian life cycles."
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Pronouncing it as 'am-fib-ee-an' with four syllables.",
+        "tip": "It's three syllables: am-FIB-ee-an"
+      },
+      {
+        "mistake": "Stressing the first syllable.",
+        "tip": "Stress is on the second syllable: am-FIB-ee-an"
+      }
+    ],
+    "partOfSpeech": "Noun",
+    "regionSpecificDifferences": {
+      "Note": "Pronunciation is generally consistent"
+    }
+  },
+  {
+    "term": "Annoyance",
+    "phonetic": "/əˈnɔɪəns/",
+    "pronunciationVariants": [
+      {
+        "variant": "Standard",
+        "phonetic": "/əˈnɔɪəns/"
+      }
+    ],
+    "hearItNowUrl": "https://quickpronounce.site/term/Annoyance",
+    "exampleSentences": [
+      "The constant noise was an annoyance.",
+      "She expressed her annoyance with the situation."
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Pronouncing it as 'an-noy-ance' with equal stress.",
+        "tip": "Stress is on the second syllable: an-NOY-ance"
+      },
+      {
+        "mistake": "Omitting the 'oi' diphthong.",
+        "tip": "The 'oy' should be clearly pronounced"
+      }
+    ],
+    "partOfSpeech": "Noun",
+    "regionSpecificDifferences": {
+      "Note": "Pronunciation is generally consistent"
+    }
+  },
+  {
+    "term": "Bouquet",
+    "phonetic": "/buːˈkeɪ/",
+    "pronunciationVariants": [
+      {
+        "variant": "English",
+        "phonetic": "/buːˈkeɪ/"
+      },
+      {
+        "variant": "French",
+        "phonetic": "/bukɛ/"
+      }
+    ],
+    "hearItNowUrl": "https://quickpronounce.site/term/Bouquet",
+    "exampleSentences": [
+      "He gave her a bouquet of roses.",
+      "The wine had a fruity bouquet."
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Pronouncing it as 'bow-kwet'.",
+        "tip": "It's 'boo-KAY' - the 'qu' is 'k' and the 't' is silent"
+      },
+      {
+        "mistake": "Stressing the first syllable.",
+        "tip": "Stress is on the second syllable: boo-KAY"
+      }
+    ],
+    "partOfSpeech": "Noun",
+    "regionSpecificDifferences": {
+      "Note": "The French pronunciation differs"
+    }
+  },
+  {
+    "term": "Bruschetta",
+    "phonetic": "/bruːˈskɛtə/",
+    "pronunciationVariants": [
+      {
+        "variant": "English",
+        "phonetic": "/bruːˈskɛtə/"
+      },
+      {
+        "variant": "Italian",
+        "phonetic": "/bruˈsketta/"
+      }
+    ],
+    "hearItNowUrl": "https://quickpronounce.site/term/Bruschetta",
+    "exampleSentences": [
+      "We shared bruschetta as an appetizer.",
+      "The bruschetta was topped with tomatoes and basil."
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Pronouncing it as 'broo-shet-ah'.",
+        "tip": "The 'sch' is 'sk': 'broo-SKET-ah'"
+      },
+      {
+        "mistake": "Stressing the wrong syllable.",
+        "tip": "Stress is on the second syllable: broo-SKET-ah"
+      }
+    ],
+    "partOfSpeech": "Noun",
+    "regionSpecificDifferences": {
+      "Note": "The Italian pronunciation has a harder 'k' sound"
+    }
+  },
+  {
+    "term": "Cache",
+    "phonetic": "/kæʃ/",
+    "pronunciationVariants": [
+      {
+        "variant": "Standard",
+        "phonetic": "/kæʃ/"
+      }
+    ],
+    "hearItNowUrl": "https://quickpronounce.site/term/Cache",
+    "exampleSentences": [
+      "The browser stores files in its cache.",
+      "Hunters found a cache of supplies in the forest."
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Pronouncing it as 'kay-sh' or 'kash-ay'.",
+        "tip": "It's one syllable, rhyming with 'ash': 'cash'"
+      },
+      {
+        "mistake": "Confusing it with 'cachet'.",
+        "tip": "These are different words with different meanings"
+      }
+    ],
+    "partOfSpeech": "Noun/Verb",
+    "regionSpecificDifferences": {
+      "Note": "Pronunciation is generally consistent"
+    }
+  },
+  {
+    "term": "Cliché",
+    "phonetic": "/ˈkliːʃeɪ/",
+    "pronunciationVariants": [
+      {
+        "variant": "English",
+        "phonetic": "/ˈkliːʃeɪ/"
+      },
+      {
+        "variant": "French",
+        "phonetic": "/kliʃe/"
+      }
+    ],
+    "hearItNowUrl": "https://quickpronounce.site/term/Cliché",
+    "exampleSentences": [
+      "The story's ending was a bit cliché.",
+      "Avoid using clichés in your writing."
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Pronouncing it as 'kli-chay' with a hard 'ch'.",
+        "tip": "The 'ch' is 'sh': 'KLEE-shay'"
+      },
+      {
+        "mistake": "Omitting the accent mark in writing.",
+        "tip": "Remember to include the é in spelling"
+      }
+    ],
+    "partOfSpeech": "Noun",
+    "regionSpecificDifferences": {
+      "Note": "The French pronunciation differs"
+    }
+  },
+  {
+    "term": "Coyote",
+    "phonetic": "/kaɪˈoʊti/",
+    "pronunciationVariants": [
+      {
+        "variant": "English",
+        "phonetic": "/kaɪˈoʊti/",
+        "note": "Common in western US"
+      },
+      {
+        "variant": "Alternative English",
+        "phonetic": "/ˈkaɪoʊt/",
+        "note": "Common in eastern US"
+      },
+      {
+        "variant": "Spanish",
+        "phonetic": "/koˈjote/"
+      }
+    ],
+    "hearItNowUrl": "https://quickpronounce.site/term/Coyote",
+    "exampleSentences": [
+      "A coyote howled in the distance.",
+      "Coyotes have adapted well to urban environments."
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Pronouncing it as 'coy-oat'.",
+        "tip": "Most common pronunciation is 'ky-OH-tee' (three syllables)"
+      },
+      {
+        "mistake": "Omitting the 'e' at the end.",
+        "tip": "The 'e' is typically pronounced in English"
+      }
+    ],
+    "partOfSpeech": "Noun",
+    "regionSpecificDifferences": {
+      "Western US": "Often three syllables: ky-OH-tee",
+      "Eastern US": "Often two syllables: KY-ote"
+    }
+  },
+  {
+    "term": "Cypress",
+    "phonetic": "/ˈsaɪprəs/",
+    "pronunciationVariants": [
+      {
+        "variant": "Standard",
+        "phonetic": "/ˈsaɪprəs/"
+      }
+    ],
+    "hearItNowUrl": "https://quickpronounce.site/term/Cypress",
+    "exampleSentences": [
+      "The cypress trees lined the driveway.",
+      "Cypress wood is resistant to rot."
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Pronouncing it as 'sip-ress'.",
+        "tip": "The first syllable rhymes with 'eye': 'SY-press'"
+      },
+      {
+        "mistake": "Stressing the wrong syllable.",
+        "tip": "Stress is on the first syllable: SY-press"
+      }
+    ],
+    "partOfSpeech": "Noun",
+    "regionSpecificDifferences": {
+      "Note": "Pronunciation is generally consistent"
+    }
+  },
+  {
+    "term": "Debris",
+    "phonetic": "/dəˈbriː/",
+    "pronunciationVariants": [
+      {
+        "variant": "Standard",
+        "phonetic": "/dəˈbriː/"
+      },
+      {
+        "variant": "Alternative",
+        "phonetic": "/ˈdeɪbriː/"
+      }
+    ],
+    "hearItNowUrl": "https://quickpronounce.site/term/Debris",
+    "exampleSentences": [
+      "Workers cleared the debris from the construction site.",
+      "The storm left debris scattered everywhere."
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Pronouncing the 's' at the end.",
+        "tip": "The 's' is silent: 'de-BREE'"
+      },
+      {
+        "mistake": "Stressing the first syllable.",
+        "tip": "Stress is on the second syllable: de-BREE"
+      }
+    ],
+    "partOfSpeech": "Noun",
+    "regionSpecificDifferences": {
+      "Note": "Both pronunciations are used, but 'de-BREE' is more common"
+    }
+  },
+  {
+    "term": "Dilemma",
+    "phonetic": "/dɪˈlɛmə/",
+    "pronunciationVariants": [
+      {
+        "variant": "Standard",
+        "phonetic": "/dɪˈlɛmə/"
+      }
+    ],
+    "hearItNowUrl": "https://quickpronounce.site/term/Dilemma",
+    "exampleSentences": [
+      "She faced a moral dilemma.",
+      "It's a classic dilemma with no easy solution."
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Pronouncing it as 'di-lem-na' with an 'n' sound.",
+        "tip": "There's no 'n' sound: 'di-LEM-ma'"
+      },
+      {
+        "mistake": "Spelling it as 'dilemna'.",
+        "tip": "Remember it's 'dilemma' with two 'm's"
+      }
+    ],
+    "partOfSpeech": "Noun",
+    "regionSpecificDifferences": {
+      "Note": "Pronunciation is generally consistent"
+    }
+  },
+  {
+    "term": "Eccentric",
+    "phonetic": "/ɪkˈsɛntrɪk/",
+    "pronunciationVariants": [
+      {
+        "variant": "Standard",
+        "phonetic": "/ɪkˈsɛntrɪk/"
+      }
+    ],
+    "hearItNowUrl": "https://quickpronounce.site/term/Eccentric",
+    "exampleSentences": [
+      "The eccentric artist lived in a bizarre house.",
+      "His eccentric behavior amused his friends."
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Pronouncing it as 'ee-sen-trik'.",
+        "tip": "It's 'ek-SEN-trik' - the first 'c' is hard"
+      },
+      {
+        "mistake": "Stressing the first syllable.",
+        "tip": "Stress is on the second syllable: ek-SEN-trik"
+      }
+    ],
+    "partOfSpeech": "Adjective",
+    "regionSpecificDifferences": {
+      "Note": "Pronunciation is generally consistent"
+    }
+  },
+  {
+    "term": "Eloquent",
+    "phonetic": "/ˈɛləkwənt/",
+    "pronunciationVariants": [
+      {
+        "variant": "Standard",
+        "phonetic": "/ˈɛləkwənt/"
+      }
+    ],
+    "hearItNowUrl": "https://quickpronounce.site/term/Eloquent",
+    "exampleSentences": [
+      "The speaker was eloquent and persuasive.",
+      "She gave an eloquent defense of her position."
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Pronouncing it as 'ee-lo-quent'.",
+        "tip": "It's 'EL-o-quent' with short 'e' at start"
+      },
+      {
+        "mistake": "Stressing the wrong syllable.",
+        "tip": "Stress is on the first syllable: EL-o-quent"
+      }
+    ],
+    "partOfSpeech": "Adjective",
+    "regionSpecificDifferences": {
+      "Note": "Pronunciation is generally consistent"
+    }
+  },
+  {
+    "term": "Facade",
+    "phonetic": "/fəˈsɑːd/",
+    "pronunciationVariants": [
+      {
+        "variant": "English",
+        "phonetic": "/fəˈsɑːd/"
+      },
+      {
+        "variant": "French",
+        "phonetic": "/fasad/"
+      }
+    ],
+    "hearItNowUrl": "https://quickpronounce.site/term/Facade",
+    "exampleSentences": [
+      "The building's facade was beautifully decorated.",
+      "His cheerful manner was just a facade."
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Pronouncing it as 'fay-kade'.",
+        "tip": "It's 'fa-SAHD' - the 'c' is soft and the 'e' is silent"
+      },
+      {
+        "mistake": "Stressing the first syllable.",
+        "tip": "Stress is on the second syllable: fa-SAHD"
+      }
+    ],
+    "partOfSpeech": "Noun",
+    "regionSpecificDifferences": {
+      "Note": "The French pronunciation differs"
+    }
+  },
+  {
+    "term": "Finesse",
+    "phonetic": "/fɪˈnɛs/",
+    "pronunciationVariants": [
+      {
+        "variant": "Standard",
+        "phonetic": "/fɪˈnɛs/"
+      }
+    ],
+    "hearItNowUrl": "https://quickpronounce.site/term/Finesse",
+    "exampleSentences": [
+      "She handled the situation with finesse.",
+      "The musician played with great finesse."
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Pronouncing it as 'fine-ess'.",
+        "tip": "It's 'fi-NESS' - the first 'e' is short"
+      },
+      {
+        "mistake": "Stressing the first syllable.",
+        "tip": "Stress is on the second syllable: fi-NESS"
+      }
+    ],
+    "partOfSpeech": "Noun/Verb",
+    "regionSpecificDifferences": {
+      "Note": "Pronunciation is generally consistent"
+    }
+  },
+  {
+    "term": "Flawless",
+    "phonetic": "/ˈflɔːləs/",
+    "pronunciationVariants": [
+      {
+        "variant": "Standard",
+        "phonetic": "/ˈflɔːləs/"
+      }
+    ],
+    "hearItNowUrl": "https://quickpronounce.site/term/Flawless",
+    "exampleSentences": [
+      "Her performance was flawless.",
+      "The diamond appeared flawless to the naked eye."
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Pronouncing it as 'flaw-less' with equal stress.",
+        "tip": "Stress is on the first syllable: FLAW-less"
+      },
+      {
+        "mistake": "Omitting the 'w' sound.",
+        "tip": "The 'aw' should be clearly pronounced"
+      }
+    ],
+    "partOfSpeech": "Adjective",
+    "regionSpecificDifferences": {
+      "Note": "Pronunciation is generally consistent"
+    }
+  },
+  {
+    "term": "Guitar",
+    "phonetic": "/ɡɪˈtɑːr/",
+    "pronunciationVariants": [
+      {
+        "variant": "Standard",
+        "phonetic": "/ɡɪˈtɑːr/"
+      }
+    ],
+    "hearItNowUrl": "https://quickpronounce.site/term/Guitar",
+    "exampleSentences": [
+      "He played guitar in a band.",
+      "The acoustic guitar had a warm tone."
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Pronouncing it as 'gee-tar'.",
+        "tip": "It's 'gi-TAR' - the 'ui' is short 'i' sound"
+      },
+      {
+        "mistake": "Stressing the first syllable.",
+        "tip": "Stress is on the second syllable: gi-TAR"
+      }
+    ],
+    "partOfSpeech": "Noun",
+    "regionSpecificDifferences": {
+      "Note": "Pronunciation is generally consistent"
+    }
+  },
+  {
+    "term": "Harassment",
+    "phonetic": "/ˈhærəsmənt/",
+    "pronunciationVariants": [
+      {
+        "variant": "Standard",
+        "phonetic": "/ˈhærəsmənt/"
+      },
+      {
+        "variant": "Alternative",
+        "phonetic": "/həˈræsmənt/"
+      }
+    ],
+    "hearItNowUrl": "https://quickpronounce.site/term/Harassment",
+    "exampleSentences": [
+      "She reported sexual harassment at work.",
+      "The company has a zero-tolerance policy for harassment."
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Pronouncing it as 'ha-rass-ment' with stress on second syllable.",
+        "tip": "Standard pronunciation stresses first syllable: HAR-ass-ment"
+      },
+      {
+        "mistake": "Pronouncing the 'h' as silent.",
+        "tip": "The 'h' should be pronounced"
+      }
+    ],
+    "partOfSpeech": "Noun",
+    "regionSpecificDifferences": {
+      "US": "More likely to stress first syllable",
+      "UK": "Sometimes stresses second syllable"
+    }
+  },
+  {
+    "term": "Horizon",
+    "phonetic": "/həˈraɪzən/",
+    "pronunciationVariants": [
+      {
+        "variant": "Standard",
+        "phonetic": "/həˈraɪzən/"
+      }
+    ],
+    "hearItNowUrl": "https://quickpronounce.site/term/Horizon",
+    "exampleSentences": [
+      "The sun dipped below the horizon.",
+      "New horizons of opportunity opened up for her."
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Pronouncing it as 'hor-i-zon' with stress on first syllable.",
+        "tip": "Stress is on the second syllable: ho-RI-zon"
+      },
+      {
+        "mistake": "Omitting the 'z' sound.",
+        "tip": "The 'z' should be clearly pronounced"
+      }
+    ],
+    "partOfSpeech": "Noun",
+    "regionSpecificDifferences": {
+      "Note": "Pronunciation is generally consistent"
+    }
+  },
+  {
+    "term": "Hotel",
+    "phonetic": "/həʊˈtel/",
+    "pronunciationVariants": [
+      {
+        "variant": "Standard",
+        "phonetic": "/həʊˈtel/"
+      }
+    ],
+    "hearItNowUrl": "https://quickpronounce.site/term/Hotel",
+    "exampleSentences": [
+      "We stayed at a luxury hotel.",
+      "The hotel reception was open 24 hours."
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Pronouncing it as 'ho-tel' with equal stress.",
+        "tip": "Stress is on the second syllable: ho-TEL"
+      },
+      {
+        "mistake": "Omitting the 'h' sound.",
+        "tip": "The 'h' should be pronounced"
+      }
+    ],
+    "partOfSpeech": "Noun",
+    "regionSpecificDifferences": {
+      "Note": "Pronunciation is generally consistent"
+    }
+  },
+  {
+    "term": "Hierarchy",
+    "phonetic": "/ˈhaɪərɑːrki/",
+    "pronunciationVariants": [
+      {
+        "variant": "Standard",
+        "phonetic": "/ˈhaɪərɑːrki/"
+      }
+    ],
+    "hearItNowUrl": "https://quickpronounce.site/term/Hierarchy",
+    "exampleSentences": [
+      "The company has a strict hierarchy.",
+      "Understanding the social hierarchy was important."
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Pronouncing it as 'hi-rar-chy'.",
+        "tip": "It's 'HI-er-ar-ky' - four syllables"
+      },
+      {
+        "mistake": "Stressing the wrong syllable.",
+        "tip": "Stress is on the first syllable: HI-er-ar-ky"
+      }
+    ],
+    "partOfSpeech": "Noun",
+    "regionSpecificDifferences": {
+      "Note": "Pronunciation is generally consistent"
+    }
+  },
+  {
+    "term": "Jeopardy",
+    "phonetic": "/ˈdʒɛpərdi/",
+    "pronunciationVariants": [
+      {
+        "variant": "Standard",
+        "phonetic": "/ˈdʒɛpərdi/"
+      }
+    ],
+    "hearItNowUrl": "https://quickpronounce.site/term/Jeopardy",
+    "exampleSentences": [
+      "The scandal put his career in jeopardy.",
+      "She appeared on the TV show Jeopardy!."
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Pronouncing it as 'jee-op-ardy'.",
+        "tip": "It's 'JEP-er-dy' - the 'eo' is short 'e'"
+      },
+      {
+        "mistake": "Stressing the wrong syllable.",
+        "tip": "Stress is on the first syllable: JEP-er-dy"
+      }
+    ],
+    "partOfSpeech": "Noun",
+    "regionSpecificDifferences": {
+      "Note": "Pronunciation is generally consistent"
+    }
+  },
+  {
+    "term": "Karaoke",
+    "phonetic": "/ˌkæriˈəʊki/",
+    "pronunciationVariants": [
+      {
+        "variant": "English",
+        "phonetic": "/ˌkæriˈəʊki/"
+      },
+      {
+        "variant": "Japanese",
+        "phonetic": "/kaɾaoke/"
+      }
+    ],
+    "hearItNowUrl": "https://quickpronounce.site/term/Karaoke",
+    "exampleSentences": [
+      "We sang karaoke at the party.",
+      "The bar has karaoke every Friday night."
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Pronouncing it as 'carry-okie'.",
+        "tip": "It's 'ka-ree-OH-kee' - four syllables"
+      },
+      {
+        "mistake": "Stressing the wrong syllable.",
+        "tip": "Primary stress is on the third syllable: ka-ree-OH-kee"
+      }
+    ],
+    "partOfSpeech": "Noun",
+    "regionSpecificDifferences": {
+      "Note": "The Japanese pronunciation differs"
+    }
+  },
+  {
+    "term": "Knack",
+    "phonetic": "/næk/",
+    "pronunciationVariants": [
+      {
+        "variant": "Standard",
+        "phonetic": "/næk/"
+      }
+    ],
+    "hearItNowUrl": "https://quickpronounce.site/term/Knack",
+    "exampleSentences": [
+      "She has a knack for languages.",
+      "It takes a knack to open that jar."
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Pronouncing the 'k' at the beginning.",
+        "tip": "The 'k' is silent: 'nak'"
+      },
+      {
+        "mistake": "Adding extra sounds.",
+        "tip": "It's one syllable only"
+      }
+    ],
+    "partOfSpeech": "Noun",
+    "regionSpecificDifferences": {
+      "Note": "Pronunciation is generally consistent"
+    }
+  },
+  {
+    "term": "Loyal",
+    "phonetic": "/ˈlɔɪəl/",
+    "pronunciationVariants": [
+      {
+        "variant": "Standard",
+        "phonetic": "/ˈlɔɪəl/"
+      }
+    ],
+    "hearItNowUrl": "https://quickpronounce.site/term/Loyal",
+    "exampleSentences": [
+      "He remained loyal to his friends.",
+      "The brand has many loyal customers."
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Pronouncing it as 'loy-al' with two syllables.",
+        "tip": "It's two syllables but runs together: 'LOY-al'"
+      },
+      {
+        "mistake": "Omitting the 'y' sound.",
+        "tip": "The 'oy' diphthong should be clear"
+      }
+    ],
+    "partOfSpeech": "Adjective",
+    "regionSpecificDifferences": {
+      "Note": "Pronunciation is generally consistent"
+    }
+  },
+  {
+    "term": "Minuscule",
+    "phonetic": "/ˈmɪnəskjuːl/",
+    "pronunciationVariants": [
+      {
+        "variant": "Standard",
+        "phonetic": "/ˈmɪnəskjuːl/"
+      }
+    ],
+    "hearItNowUrl": "https://quickpronounce.site/term/Minuscule",
+    "exampleSentences": [
+      "There was only a minuscule chance of success.",
+      "The insect was minuscule but visible."
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Pronouncing it as 'mini-scule'.",
+        "tip": "It's 'MIN-us-cule' - note the 'u' after 'min'"
+      },
+      {
+        "mistake": "Stressing the wrong syllable.",
+        "tip": "Stress is on the first syllable: MIN-us-cule"
+      }
+    ],
+    "partOfSpeech": "Adjective",
+    "regionSpecificDifferences": {
+      "Note": "Pronunciation is generally consistent"
+    }
+  },
+  {
+    "term": "Niche",
+    "phonetic": "/niːʃ/",
+    "pronunciationVariants": [
+      {
+        "variant": "Standard",
+        "phonetic": "/niːʃ/"
+      },
+      {
+        "variant": "Alternative",
+        "phonetic": "/nɪtʃ/"
+      }
+    ],
+    "hearItNowUrl": "https://quickpronounce.site/term/Niche",
+    "exampleSentences": [
+      "She found her niche in the company.",
+      "The product serves a specific market niche."
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Pronouncing it as 'nitch'.",
+        "tip": "The standard pronunciation is 'neesh'"
+      },
+      {
+        "mistake": "Adding extra syllables.",
+        "tip": "It's one syllable only"
+      }
+    ],
+    "partOfSpeech": "Noun",
+    "regionSpecificDifferences": {
+      "US": "Both 'neesh' and 'nitch' are used",
+      "UK": "Primarily 'neesh'"
+    }
+  },
+  {
+    "term": "Obfuscate",
+    "phonetic": "/ˈɒbfʌskeɪt/",
+    "pronunciationVariants": [
+      {
+        "variant": "Standard",
+        "phonetic": "/ˈɒbfʌskeɪt/"
+      }
+    ],
+    "hearItNowUrl": "https://quickpronounce.site/term/Obfuscate",
+    "exampleSentences": [
+      "The politician tried to obfuscate the issue.",
+      "Technical jargon can obfuscate meaning."
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Pronouncing it as 'ob-fus-cate' with equal stress.",
+        "tip": "Stress is on the first syllable: OB-fus-cate"
+      },
+      {
+        "mistake": "Omitting the 'b' sound.",
+        "tip": "The 'b' should be pronounced"
+      }
+    ],
+    "partOfSpeech": "Verb",
+    "regionSpecificDifferences": {
+      "Note": "Pronunciation is generally consistent"
+    }
+  },
+  {
+    "term": "Oregano",
+    "phonetic": "/ɒˈrɛɡənəʊ/",
+    "pronunciationVariants": [
+      {
+        "variant": "Standard",
+        "phonetic": "/ɒˈrɛɡənəʊ/"
+      },
+      {
+        "variant": "Alternative",
+        "phonetic": "/əˈreɪɡənəʊ/"
+      }
+    ],
+    "hearItNowUrl": "https://quickpronounce.site/term/Oregano",
+    "exampleSentences": [
+      "Add some oregano to the sauce.",
+      "Oregano is commonly used in Italian cooking."
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Pronouncing it as 'or-ee-GAH-no'.",
+        "tip": "It's 'o-REG-a-no' - stress on second syllable"
+      },
+      {
+        "mistake": "Adding extra syllables.",
+        "tip": "It's four syllables: o-REG-a-no"
+      }
+    ],
+    "partOfSpeech": "Noun",
+    "regionSpecificDifferences": {
+      "US": "Often pronounced with 'ray' sound in second syllable",
+      "UK": "Typically pronounced with 'reg' sound in second syllable"
+    }
+  },
+  {
+    "term": "Rhetoric",
+    "phonetic": "/ˈrɛtərɪk/",
+    "pronunciationVariants": [
+      {
+        "variant": "Standard",
+        "phonetic": "/ˈrɛtərɪk/"
+      }
+    ],
+    "hearItNowUrl": "https://quickpronounce.site/term/Rhetoric",
+    "exampleSentences": [
+      "His speech was full of empty rhetoric.",
+      "She studied classical rhetoric in college."
+    ],
+    "commonMistakes": [
+      {
+        "mistake": "Pronouncing the 'h'.",
+        "tip": "The 'h' is silent: 'RET-or-ic'"
+      },
+      {
+        "mistake": "Stressing the wrong syllable.",
+        "tip": "Stress is on the first syllable: RET-or-ic"
+      }
+    ],
+    "partOfSpeech": "Noun",
+    "regionSpecificDifferences": {
+      "Note": "Pronunciation is generally consistent"
+    }
   }
 ]
