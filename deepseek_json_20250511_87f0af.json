@@ -14,19 +14,19 @@
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Aluminum",
     "exampleSentences": [
-      "The airplane's frame is made of aluminum.",
+      "The airplane's body is made of aluminum.",
       "Aluminum foil is commonly used in cooking."
     ],
     "commonMistakes": [
       {
-        "mistake": "Pronouncing it as 'al-loo-min-ee-um' in American English.",
-        "tip": "In American English, it's typically 'a-loo-mi-num' with four syllables."
+        "mistake": "Pronouncing it with four syllables like British English in American contexts.",
+        "tip": "In American English, it's typically three syllables: 'uh-LOO-mi-num'."
       }
     ],
     "partOfSpeech": "Noun",
     "regionSpecificDifferences": {
-      "US": "Pronounced with four syllables: /əˈluːmɪnəm/",
-      "UK": "Pronounced with five syllables: /ˌæl.jʊˈmɪn.i.əm/"
+      "US": "Three syllables: /əˈluːmɪnəm/",
+      "UK": "Four syllables: /ˌæl.jʊˈmɪn.i.əm/"
     }
   },
   {
@@ -34,7 +34,11 @@
     "phonetic": "/ˈæstərɪsk/",
     "pronunciationVariants": [
       {
-        "variant": "Standard",
+        "variant": "American English",
+        "phonetic": "/ˈæstərɪsk/"
+      },
+      {
+        "variant": "British English",
         "phonetic": "/ˈæstərɪsk/"
       }
     ],
@@ -45,17 +49,14 @@
     ],
     "commonMistakes": [
       {
-        "mistake": "Pronouncing it as 'asterix' (like the comic).",
-        "tip": "Remember the 'sk' sound at the end."
-      },
-      {
-        "mistake": "Saying 'asterik'.",
-        "tip": "The correct pronunciation has the 'isk' ending."
+        "mistake": "Pronouncing it as 'asterix' (dropping the 'k' sound).",
+        "tip": "Make sure to pronounce the ending '-isk' clearly."
       }
     ],
     "partOfSpeech": "Noun",
     "regionSpecificDifferences": {
-      "Note": "Pronunciation is generally consistent across regions"
+      "US": "Same as UK pronunciation",
+      "UK": "Same as US pronunciation"
     }
   },
   {
@@ -73,23 +74,19 @@
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Bureaucracy",
     "exampleSentences": [
-      "The bureaucracy involved in getting a permit was overwhelming.",
+      "The bureaucracy made it difficult to get a quick response.",
       "He was frustrated by the company's bureaucracy."
     ],
     "commonMistakes": [
       {
-        "mistake": "Misplacing the stress on the first syllable.",
-        "tip": "Stress should be on the second syllable: bu-REAU-cracy"
-      },
-      {
-        "mistake": "Omitting the 'eau' sound.",
-        "tip": "Pronounce the 'eau' as 'you'"
+        "mistake": "Misplacing the stress on the second syllable.",
+        "tip": "Stress should be on the second syllable: bu-REAU-cracy."
       }
     ],
     "partOfSpeech": "Noun",
     "regionSpecificDifferences": {
-      "US": "The 'au' sound is more open: /bjʊˈrɑːkrəsi/",
-      "UK": "The 'o' sound is shorter: /bjʊˈrɒkrəsi/"
+      "US": "Second vowel is /ɑː/",
+      "UK": "Second vowel is /ɒ/"
     }
   },
   {
@@ -97,28 +94,29 @@
     "phonetic": "/ˈkeɪɒs/",
     "pronunciationVariants": [
       {
-        "variant": "Standard",
+        "variant": "American English",
+        "phonetic": "/ˈkeɪɑːs/"
+      },
+      {
+        "variant": "British English",
         "phonetic": "/ˈkeɪɒs/"
       }
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Chaos",
     "exampleSentences": [
       "The room was in complete chaos after the party.",
-      "The traffic system descended into chaos after the accident."
+      "The new regulations caused chaos in the industry."
     ],
     "commonMistakes": [
       {
-        "mistake": "Pronouncing it as 'chow-s'.",
-        "tip": "The 'ch' sounds like a 'k' and the 'a' is long."
-      },
-      {
-        "mistake": "Saying 'chay-os' with a hard 'ch'.",
-        "tip": "It begins with a 'k' sound, not 'ch'."
+        "mistake": "Pronouncing the 'ch' as in 'church'.",
+        "tip": "The 'ch' in chaos is pronounced as a hard 'k' sound."
       }
     ],
     "partOfSpeech": "Noun",
     "regionSpecificDifferences": {
-      "Note": "Pronunciation is generally consistent"
+      "US": "Ends with /ɑːs/",
+      "UK": "Ends with /ɒs/"
     }
   },
   {
@@ -126,28 +124,29 @@
     "phonetic": "/ˈkæfiːn/",
     "pronunciationVariants": [
       {
-        "variant": "Standard",
+        "variant": "American English",
+        "phonetic": "/ˈkæfiːn/"
+      },
+      {
+        "variant": "British English",
         "phonetic": "/ˈkæfiːn/"
       }
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Caffeine",
     "exampleSentences": [
       "This coffee has too much caffeine for me.",
-      "She avoids caffeine after 2 PM to help her sleep."
+      "She avoids caffeine after 2pm to sleep better."
     ],
     "commonMistakes": [
       {
-        "mistake": "Pronouncing it as 'caff-een' with stress on the second syllable.",
-        "tip": "Stress is on the first syllable: CAF-feine"
-      },
-      {
-        "mistake": "Saying 'caff-ee-in' with three syllables.",
-        "tip": "It's two syllables: 'caf-feine'"
+        "mistake": "Pronouncing it with three syllables (caf-fe-in).",
+        "tip": "It's two syllables: 'caf-feene'."
       }
     ],
     "partOfSpeech": "Noun",
     "regionSpecificDifferences": {
-      "Note": "Pronunciation is generally consistent"
+      "US": "Same as UK pronunciation",
+      "UK": "Same as US pronunciation"
     }
   },
   {
@@ -155,8 +154,12 @@
     "phonetic": "/ˈkɜːrnəl/",
     "pronunciationVariants": [
       {
-        "variant": "Standard",
+        "variant": "American English",
         "phonetic": "/ˈkɜːrnəl/"
+      },
+      {
+        "variant": "British English",
+        "phonetic": "/ˈkɜːnəl/"
       }
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Colonel",
@@ -166,17 +169,14 @@
     ],
     "commonMistakes": [
       {
-        "mistake": "Trying to pronounce it as it's spelled (colon-el).",
-        "tip": "It's pronounced identically to 'kernel'"
-      },
-      {
-        "mistake": "Adding an 'l' sound after the 'o'.",
-        "tip": "The 'l' is silent in the first syllable"
+        "mistake": "Pronouncing it as it's spelled (co-lo-nel).",
+        "tip": "It's pronounced identically to 'kernel'."
       }
     ],
     "partOfSpeech": "Noun",
     "regionSpecificDifferences": {
-      "Note": "Pronunciation is generally consistent despite spelling"
+      "US": "Includes slight 'r' sound",
+      "UK": "Softer 'r' sound"
     }
   },
   {
@@ -184,32 +184,29 @@
     "phonetic": "/ˈfɛbruəri/",
     "pronunciationVariants": [
       {
-        "variant": "Standard",
-        "phonetic": "/ˈfɛbruəri/"
+        "variant": "American English",
+        "phonetic": "/ˈfɛbruˌɛri/"
       },
       {
-        "variant": "Common alternative",
-        "phonetic": "/ˈfɛbjuəri/"
+        "variant": "British English",
+        "phonetic": "/ˈfɛbrʊəri/"
       }
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/February",
     "exampleSentences": [
       "Valentine's Day is in February.",
-      "February is typically the coldest month here."
+      "February is the shortest month of the year."
     ],
     "commonMistakes": [
       {
-        "mistake": "Omitting the first 'r' sound.",
-        "tip": "Try to pronounce both 'r's: Feb-roo-ary"
-      },
-      {
-        "mistake": "Saying 'Feb-yoo-ary'.",
-        "tip": "The correct pronunciation includes the first 'r' sound"
+        "mistake": "Dropping the first 'r' sound (Feb-yoo-ary).",
+        "tip": "Try to pronounce both 'r's: Feb-roo-ary."
       }
     ],
     "partOfSpeech": "Noun",
     "regionSpecificDifferences": {
-      "Note": "Both pronunciations are widely accepted"
+      "US": "More distinct 'roo' sound",
+      "UK": "More of a 'ruh' sound"
     }
   },
   {
@@ -217,32 +214,29 @@
     "phonetic": "/fɔːrt/",
     "pronunciationVariants": [
       {
-        "variant": "Musical term",
-        "phonetic": "/ˈfɔːrteɪ/"
+        "variant": "American English",
+        "phonetic": "/fɔːrt/"
       },
       {
-        "variant": "Strength/specialty",
-        "phonetic": "/fɔːrt/"
+        "variant": "British English",
+        "phonetic": "/ˈfɔːteɪ/"
       }
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Forte",
     "exampleSentences": [
       "Public speaking is not my forte.",
-      "The passage should be played forte (loudly)."
+      "Mathematics was always his forte."
     ],
     "commonMistakes": [
       {
-        "mistake": "Pronouncing the 'e' at the end when meaning 'strength'.",
-        "tip": "When meaning strength, it's one syllable: 'fort'"
-      },
-      {
-        "mistake": "Using the musical pronunciation for the strength meaning.",
-        "tip": "These are technically two different words with different pronunciations"
+        "mistake": "Pronouncing it as two syllables when meaning 'strength'.",
+        "tip": "When meaning 'strength', it's one syllable (like 'fort')."
       }
     ],
-    "partOfSpeech": "Noun/Adverb",
+    "partOfSpeech": "Noun",
     "regionSpecificDifferences": {
-      "Note": "The two meanings have distinct pronunciations"
+      "US": "One syllable when meaning strength",
+      "UK": "Sometimes two syllables (/ˈfɔːteɪ/) even for strength meaning"
     }
   },
   {
@@ -250,28 +244,29 @@
     "phonetic": "/haɪˈpɜːrbəli/",
     "pronunciationVariants": [
       {
-        "variant": "Standard",
+        "variant": "American English",
         "phonetic": "/haɪˈpɜːrbəli/"
+      },
+      {
+        "variant": "British English",
+        "phonetic": "/haɪˈpɜːbəli/"
       }
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Hyperbole",
     "exampleSentences": [
       "Saying 'I'm so hungry I could eat a horse' is hyperbole.",
-      "The advertisement was full of hyperbole."
+      "The advertisement used hyperbole to make its point."
     ],
     "commonMistakes": [
       {
-        "mistake": "Pronouncing it as 'hyper-bowl'.",
-        "tip": "The ending is '-bol-ee'"
-      },
-      {
-        "mistake": "Stressing the first syllable.",
-        "tip": "Stress is on the second syllable: hy-PER-bo-lee"
+        "mistake": "Pronouncing it like 'hyper-bowl'.",
+        "tip": "The ending is '-buh-lee', not '-bowl'."
       }
     ],
     "partOfSpeech": "Noun",
     "regionSpecificDifferences": {
-      "Note": "Pronunciation is generally consistent"
+      "US": "Stronger 'r' sound",
+      "UK": "Softer 'r' sound"
     }
   },
   {
@@ -279,38 +274,42 @@
     "phonetic": "/ˈaɪərn/",
     "pronunciationVariants": [
       {
-        "variant": "Standard",
+        "variant": "American English",
         "phonetic": "/ˈaɪərn/"
+      },
+      {
+        "variant": "British English",
+        "phonetic": "/ˈaɪən/"
       }
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Iron",
     "exampleSentences": [
-      "The bridge was made of iron.",
+      "The gate was made of wrought iron.",
       "She ironed her shirt before the meeting."
     ],
     "commonMistakes": [
       {
-        "mistake": "Pronouncing the 'r' before the 'o'.",
-        "tip": "It's pronounced 'eye-urn', not 'eye-ron'"
-      },
-      {
-        "mistake": "Omitting the 'r' sound entirely.",
-        "tip": "The 'r' should be present but comes after the vowel sound"
+        "mistake": "Pronouncing the 'r' when it should be silent (UK).",
+        "tip": "In British English, the 'r' is silent."
       }
     ],
     "partOfSpeech": "Noun/Verb",
     "regionSpecificDifferences": {
-      "US": "Often pronounced as two syllables: 'eye-urn'",
-      "UK": "Sometimes closer to one syllable: 'ion'"
+      "US": "Pronounced with the 'r'",
+      "UK": "'r' is silent"
     }
   },
   {
     "term": "Mischievous",
-    "phonetic": "/ˈmɪstʃɪvəs/",
+    "phonetic": "/ˈmɪsʧɪvəs/",
     "pronunciationVariants": [
       {
-        "variant": "Standard",
-        "phonetic": "/ˈmɪstʃɪvəs/"
+        "variant": "American English",
+        "phonetic": "/ˈmɪsʧɪvəs/"
+      },
+      {
+        "variant": "British English",
+        "phonetic": "/ˈmɪsʧɪvəs/"
       }
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Mischievous",
@@ -320,17 +319,14 @@
     ],
     "commonMistakes": [
       {
-        "mistake": "Adding an extra syllable: 'mis-CHEE-vee-us'.",
-        "tip": "It's three syllables: MIS-chi-vous"
-      },
-      {
-        "mistake": "Stressing the second syllable.",
-        "tip": "Stress should be on the first syllable"
+        "mistake": "Adding an extra syllable (mis-CHEE-vee-ous).",
+        "tip": "It's three syllables: MIS-chi-vous."
       }
     ],
     "partOfSpeech": "Adjective",
     "regionSpecificDifferences": {
-      "Note": "The four-syllable version is common but nonstandard"
+      "US": "Same as UK pronunciation",
+      "UK": "Same as US pronunciation"
     }
   },
   {
@@ -338,8 +334,12 @@
     "phonetic": "/ˈnjuːkliər/",
     "pronunciationVariants": [
       {
-        "variant": "Standard",
-        "phonetic": "/ˈnjuːkliər/"
+        "variant": "American English",
+        "phonetic": "/ˈnuːkliər/"
+      },
+      {
+        "variant": "British English",
+        "phonetic": "/ˈnjuːkliə/"
       }
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Nuclear",
@@ -350,16 +350,13 @@
     "commonMistakes": [
       {
         "mistake": "Pronouncing it as 'nuke-you-lar'.",
-        "tip": "The correct pronunciation is 'new-clear'"
-      },
-      {
-        "mistake": "Switching the 'l' and 'e' sounds.",
-        "tip": "The sequence is cle-ar, not cu-lar"
+        "tip": "It's 'new-clear', not 'nuke-you-lar'."
       }
     ],
     "partOfSpeech": "Adjective",
     "regionSpecificDifferences": {
-      "Note": "'Nuke-you-lar' is a common mispronunciation"
+      "US": "Often drops the 'y' sound (/nuː-/ instead of /njuː-/)",
+      "UK": "Retains the 'y' sound (/njuː-/)"
     }
   },
   {
@@ -367,28 +364,29 @@
     "phonetic": "/ˈɒfəntaɪmz/",
     "pronunciationVariants": [
       {
-        "variant": "Standard",
+        "variant": "American English",
+        "phonetic": "/ˈɔːfəntaɪmz/"
+      },
+      {
+        "variant": "British English",
         "phonetic": "/ˈɒfəntaɪmz/"
       }
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Oftentimes",
     "exampleSentences": [
       "Oftentimes, the simplest solution is the best.",
-      "He would oftentimes work late into the night."
+      "He would oftentimes walk to work instead of driving."
     ],
     "commonMistakes": [
       {
-        "mistake": "Pronouncing the 't' in 'often'.",
-        "tip": "The 't' in 'often' is silent in standard pronunciation"
-      },
-      {
-        "mistake": "Stressing the wrong syllable.",
-        "tip": "Stress is on the first syllable: OF-ten-times"
+        "mistake": "Pronouncing the 't' in 'often' (though this is becoming more accepted).",
+        "tip": "The 't' in 'often' is traditionally silent."
       }
     ],
     "partOfSpeech": "Adverb",
     "regionSpecificDifferences": {
-      "Note": "Some dialects pronounce the 't' in 'often'"
+      "US": "First vowel is /ɔː/",
+      "UK": "First vowel is /ɒ/"
     }
   },
   {
@@ -396,33 +394,29 @@
     "phonetic": "/ˈɒfən/",
     "pronunciationVariants": [
       {
-        "variant": "Standard",
-        "phonetic": "/ˈɒfən/"
+        "variant": "American English",
+        "phonetic": "/ˈɔːfən/"
       },
       {
-        "variant": "With 't' pronounced",
-        "phonetic": "/ˈɒftən/"
+        "variant": "British English",
+        "phonetic": "/ˈɒfən/"
       }
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Often",
     "exampleSentences": [
-      "I often go for walks in the evening.",
-      "How often do you visit your parents?"
+      "I often go to the park on weekends.",
+      "How often do you exercise?"
     ],
     "commonMistakes": [
       {
-        "mistake": "Always pronouncing the 't'.",
-        "tip": "The 't' is traditionally silent, though both versions are now accepted"
-      },
-      {
-        "mistake": "Stressing the second syllable.",
-        "tip": "Stress is on the first syllable: OF-en"
+        "mistake": "Pronouncing the 't' (though this is becoming more accepted).",
+        "tip": "The 't' is traditionally silent."
       }
     ],
     "partOfSpeech": "Adverb",
     "regionSpecificDifferences": {
-      "US": "Both pronunciations are common",
-      "UK": "Traditional pronunciation omits the 't'"
+      "US": "First vowel is /ɔː/",
+      "UK": "First vowel is /ɒ/"
     }
   },
   {
@@ -430,28 +424,29 @@
     "phonetic": "/prəˌnʌnsiˈeɪʃən/",
     "pronunciationVariants": [
       {
-        "variant": "Standard",
+        "variant": "American English",
+        "phonetic": "/prəˌnʌnsiˈeɪʃən/"
+      },
+      {
+        "variant": "British English",
         "phonetic": "/prəˌnʌnsiˈeɪʃən/"
       }
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Pronunciation",
     "exampleSentences": [
-      "Her pronunciation of French words was excellent.",
-      "The dictionary provides pronunciation guides."
+      "Her pronunciation of French words is excellent.",
+      "The dictionary shows the correct pronunciation."
     ],
     "commonMistakes": [
       {
         "mistake": "Pronouncing it as 'pro-noun-ciation'.",
-        "tip": "It's 'pro-nun-ciation' - note the 'nun' in the middle"
-      },
-      {
-        "mistake": "Stressing the first syllable.",
-        "tip": "Primary stress is on the 'a' syllable: pro-NUN-ci-A-tion"
+        "tip": "It's 'pro-nun-ciation' - note the 'nun' in the middle."
       }
     ],
     "partOfSpeech": "Noun",
     "regionSpecificDifferences": {
-      "Note": "Pronunciation is generally consistent"
+      "US": "Same as UK pronunciation",
+      "UK": "Same as US pronunciation"
     }
   },
   {
@@ -459,32 +454,29 @@
     "phonetic": "/ˈkiːnwɑː/",
     "pronunciationVariants": [
       {
-        "variant": "Standard",
+        "variant": "American English",
         "phonetic": "/ˈkiːnwɑː/"
       },
       {
-        "variant": "Spanish-influenced",
-        "phonetic": "/kiˈnoʊ.ə/"
+        "variant": "British English",
+        "phonetic": "/ˈkiːnəʊ.ə/"
       }
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Quinoa",
     "exampleSentences": [
-      "Quinoa is a nutritious grain-like crop.",
+      "Quinoa is a nutritious grain alternative.",
       "She made a salad with quinoa and vegetables."
     ],
     "commonMistakes": [
       {
         "mistake": "Pronouncing it as 'kwin-oh-ah'.",
-        "tip": "The correct pronunciation is 'keen-wah'"
-      },
-      {
-        "mistake": "Stressing the wrong syllable.",
-        "tip": "Stress is on the first syllable: KEEN-wah"
+        "tip": "It's 'keen-wah' - the 'qui' is pronounced 'kee'."
       }
     ],
     "partOfSpeech": "Noun",
     "regionSpecificDifferences": {
-      "Note": "The 'keen-wah' pronunciation is most common in English"
+      "US": "Ends with /wɑː/",
+      "UK": "Ends with /nəʊ.ə/"
     }
   },
   {
@@ -492,7 +484,11 @@
     "phonetic": "/ˈrʊərəl/",
     "pronunciationVariants": [
       {
-        "variant": "Standard",
+        "variant": "American English",
+        "phonetic": "/ˈrʊrəl/"
+      },
+      {
+        "variant": "British English",
         "phonetic": "/ˈrʊərəl/"
       }
     ],
@@ -503,18 +499,14 @@
     ],
     "commonMistakes": [
       {
-        "mistake": "Pronouncing it as 'roo-ral'.",
-        "tip": "The 'u' sound is more like 'ur' in 'hurry'"
-      },
-      {
-        "mistake": "Having difficulty with the consecutive 'r' sounds.",
-        "tip": "Practice saying 'ruhr-uhl' slowly then speed up"
+        "mistake": "Struggling with the consecutive 'r' sounds.",
+        "tip": "Practice saying 'roo-ral' slowly, then speed up."
       }
     ],
     "partOfSpeech": "Adjective",
     "regionSpecificDifferences": {
-      "US": "Often pronounced with two syllables",
-      "UK": "Sometimes closer to one syllable"
+      "US": "Two syllables, with a shorter vowel",
+      "UK": "Two syllables, with a more distinct vowel glide"
     }
   },
   {
@@ -522,33 +514,29 @@
     "phonetic": "/ˈʃɛdjuːl/",
     "pronunciationVariants": [
       {
-        "variant": "British English",
-        "phonetic": "/ˈʃɛdjuːl/"
-      },
-      {
         "variant": "American English",
         "phonetic": "/ˈskɛdʒuːl/"
+      },
+      {
+        "variant": "British English",
+        "phonetic": "/ˈʃɛdjuːl/"
       }
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Schedule",
     "exampleSentences": [
       "What's your schedule for tomorrow?",
-      "The train is running behind schedule."
+      "The train is running on schedule."
     ],
     "commonMistakes": [
       {
         "mistake": "Using the British pronunciation in American English or vice versa.",
-        "tip": "Be consistent with your variety of English"
-      },
-      {
-        "mistake": "Pronouncing the 'dule' as 'jool' in British English.",
-        "tip": "In British English, it's 'dyool'"
+        "tip": "Remember the initial 'sk' sound in American English."
       }
     ],
     "partOfSpeech": "Noun/Verb",
     "regionSpecificDifferences": {
-      "US": "Begins with 'sk' sound: /ˈskɛdʒuːl/",
-      "UK": "Begins with 'sh' sound: /ˈʃɛdjuːl/"
+      "US": "Starts with 'sk' sound",
+      "UK": "Starts with 'sh' sound"
     }
   },
   {
@@ -566,23 +554,19 @@
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Squirrel",
     "exampleSentences": [
-      "A squirrel ran up the tree with a nut.",
-      "The park is full of squirrels."
+      "The squirrel ran up the tree with a nut.",
+      "We saw red squirrels in the park."
     ],
     "commonMistakes": [
       {
-        "mistake": "Pronouncing it as 'squirl' (one syllable).",
-        "tip": "It should have two syllables: squi-rrel"
-      },
-      {
-        "mistake": "Having difficulty with the 'sq' and 'rl' sounds.",
-        "tip": "Practice saying 'skwi-ruhl' slowly"
+        "mistake": "Non-native speakers often struggle with the 'squ' and 'rl' combination.",
+        "tip": "Break it down: 'skwih-rul' (UK) or 'skwur-rel' (US)."
       }
     ],
     "partOfSpeech": "Noun",
     "regionSpecificDifferences": {
-      "US": "Often pronounced with one syllable: 'skwurl'",
-      "UK": "Typically two syllables: 'skwi-ruhl'"
+      "US": "One syllable with rhotic 'r'",
+      "UK": "Two distinct syllables"
     }
   },
   {
@@ -590,32 +574,29 @@
     "phonetic": "/ˈsɜːrveɪ/",
     "pronunciationVariants": [
       {
-        "variant": "Noun form",
-        "phonetic": "/ˈsɜːrveɪ/"
+        "variant": "American English",
+        "phonetic": "/ˈsɝːveɪ/"
       },
       {
-        "variant": "Verb form",
-        "phonetic": "/sərˈveɪ/"
+        "variant": "British English",
+        "phonetic": "/ˈsɜːveɪ/"
       }
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Survey",
     "exampleSentences": [
-      "They conducted a survey of customer opinions.",
-      "The team will survey the land before construction."
+      "We conducted a survey of customer preferences.",
+      "The land survey took two days to complete."
     ],
     "commonMistakes": [
       {
-        "mistake": "Using the noun pronunciation for the verb.",
-        "tip": "Noun: SUR-vey (stress on first syllable); Verb: sur-VEY (stress on second syllable)"
-      },
-      {
-        "mistake": "Pronouncing the 'ur' as 'er'.",
-        "tip": "The 'ur' sounds like the 'ir' in 'sir'"
+        "mistake": "Stressing the second syllable (sur-VEY).",
+        "tip": "Stress should be on the first syllable: SUR-vey."
       }
     ],
     "partOfSpeech": "Noun/Verb",
     "regionSpecificDifferences": {
-      "Note": "Stress pattern changes between noun and verb forms"
+      "US": "More rhotic pronunciation",
+      "UK": "Less rhotic pronunciation"
     }
   },
   {
@@ -623,7 +604,11 @@
     "phonetic": "/sɪˈnɛkdəki/",
     "pronunciationVariants": [
       {
-        "variant": "Standard",
+        "variant": "American English",
+        "phonetic": "/sɪˈnɛkdəki/"
+      },
+      {
+        "variant": "British English",
         "phonetic": "/sɪˈnɛkdəki/"
       }
     ],
@@ -634,17 +619,14 @@
     ],
     "commonMistakes": [
       {
-        "mistake": "Pronouncing it as 'sin-ek-doach'.",
-        "tip": "The ending is '-də-kee'"
-      },
-      {
-        "mistake": "Stressing the first syllable.",
-        "tip": "Stress is on the second syllable: si-NEC-do-kee"
+        "mistake": "Misplacing the stress on the second syllable.",
+        "tip": "Stress is on the second syllable: si-NECK-doh-key."
       }
     ],
     "partOfSpeech": "Noun",
     "regionSpecificDifferences": {
-      "Note": "Pronunciation is generally consistent"
+      "US": "Same as UK pronunciation",
+      "UK": "Same as US pronunciation"
     }
   },
   {
@@ -652,28 +634,29 @@
     "phonetic": "/ˈtændʒəbəl/",
     "pronunciationVariants": [
       {
-        "variant": "Standard",
+        "variant": "American English",
         "phonetic": "/ˈtændʒəbəl/"
+      },
+      {
+        "variant": "British English",
+        "phonetic": "/ˈtændʒɪbəl/"
       }
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Tangible",
     "exampleSentences": [
-      "The benefits of the policy were tangible.",
-      "We need tangible evidence to proceed."
+      "We need tangible evidence to support this claim.",
+      "The benefits of the program were tangible and measurable."
     ],
     "commonMistakes": [
       {
-        "mistake": "Pronouncing it as 'tan-gi-ble' with a hard 'g'.",
-        "tip": "The 'g' is soft like in 'gin': 'tan-ji-ble'"
-      },
-      {
-        "mistake": "Stressing the second syllable.",
-        "tip": "Stress is on the first syllable: TAN-gi-ble"
+        "mistake": "Pronouncing the 'g' as a hard 'g' (like in 'go').",
+        "tip": "The 'g' is soft, like a 'j' sound."
       }
     ],
     "partOfSpeech": "Adjective",
     "regionSpecificDifferences": {
-      "Note": "Pronunciation is generally consistent"
+      "US": "Second vowel is schwa /ə/",
+      "UK": "Second vowel is /ɪ/"
     }
   },
   {
@@ -681,32 +664,29 @@
     "phonetic": "/ˈviːɪkəl/",
     "pronunciationVariants": [
       {
-        "variant": "Standard",
-        "phonetic": "/ˈviːɪkəl/"
+        "variant": "American English",
+        "phonetic": "/ˈviːhɪkəl/"
       },
       {
-        "variant": "With 'h' pronounced",
-        "phonetic": "/ˈviːhɪkəl/"
+        "variant": "British English",
+        "phonetic": "/ˈviːəkəl/"
       }
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Vehicle",
     "exampleSentences": [
       "The vehicle was parked illegally.",
-      "Language is a vehicle for communication."
+      "This is my favorite vehicle in the game."
     ],
     "commonMistakes": [
       {
-        "mistake": "Omitting the 'h' sound entirely.",
-        "tip": "The 'h' is typically silent, but some pronounce it lightly"
-      },
-      {
-        "mistake": "Pronouncing it as 'vee-hick-le'.",
-        "tip": "The middle is '-i-kəl', not '-ick-le'"
+        "mistake": "Dropping the 'h' sound in American English.",
+        "tip": "In American English, pronounce the 'h': 'VEE-hi-cle'."
       }
     ],
     "partOfSpeech": "Noun",
     "regionSpecificDifferences": {
-      "Note": "The 'h' is usually silent in standard pronunciation"
+      "US": "Includes 'h' sound",
+      "UK": "'h' is silent"
     }
   },
   {
@@ -714,29 +694,29 @@
     "phonetic": "/ˈwʊstərʃər/",
     "pronunciationVariants": [
       {
-        "variant": "Standard",
-        "phonetic": "/ˈwʊstərʃər/"
+        "variant": "American English",
+        "phonetic": "/ˈwʊstərʃɪr/"
+      },
+      {
+        "variant": "British English",
+        "phonetic": "/ˈwʊstəʃə/"
       }
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Worcestershire",
     "exampleSentences": [
       "Worcestershire sauce is used in many recipes.",
-      "She comes from Worcestershire in England."
+      "She added a dash of Worcestershire to the stew."
     ],
     "commonMistakes": [
       {
-        "mistake": "Trying to pronounce every syllable.",
-        "tip": "It's pronounced 'WOO-ster-sher' - three syllables only"
-      },
-      {
-        "mistake": "Adding extra 'shire' sounds.",
-        "tip": "The ending is simply '-sher'"
+        "mistake": "Trying to pronounce every letter.",
+        "tip": "It's pronounced 'WOOS-ter-sheer' or 'WUSS-ter-sher' - many letters are silent."
       }
     ],
-    "partOfSpeech": "Noun (proper)",
+    "partOfSpeech": "Noun",
     "regionSpecificDifferences": {
-      "UK": "Locals may pronounce it slightly differently",
-      "US": "Often mispronounced with more syllables"
+      "US": "Often pronounced with three syllables",
+      "UK": "Often pronounced with two syllables"
     }
   },
   {
@@ -759,51 +739,44 @@
     ],
     "commonMistakes": [
       {
-        "mistake": "Using the British pronunciation in American English or vice versa.",
-        "tip": "Be consistent with your variety of English"
-      },
-      {
-        "mistake": "Pronouncing the 'e' as 'ee' in British English.",
-        "tip": "In British English, the 'e' is short like in 'bed'"
+        "mistake": "Pronouncing the first syllable as 'zeh' in American English.",
+        "tip": "In American English, it's 'zee-bra'."
       }
     ],
     "partOfSpeech": "Noun",
     "regionSpecificDifferences": {
-      "US": "First syllable rhymes with 'see': ZEE-bra",
-      "UK": "First syllable rhymes with 'bed': ZEB-ra"
+      "US": "First vowel is /iː/ ('zee')",
+      "UK": "First vowel is /ɛ/ ('zeh')"
     }
   },
   {
     "term": "Acai",
-    "phonetic": "/ˌæsaɪˈiː/",
+    "phonetic": "/əˈsaɪ.iː/",
     "pronunciationVariants": [
       {
-        "variant": "Standard",
-        "phonetic": "/ˌæsaɪˈiː/"
+        "variant": "American English",
+        "phonetic": "/əˈsaɪ.iː/"
       },
       {
-        "variant": "Portuguese-influenced",
-        "phonetic": "/ˌasaˈi/"
+        "variant": "British English",
+        "phonetic": "/əˈsaɪ.iː/"
       }
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Acai",
     "exampleSentences": [
       "Acai bowls are popular for breakfast.",
-      "This smoothie contains acai berries."
+      "This smoothie contains acai berry powder."
     ],
     "commonMistakes": [
       {
-        "mistake": "Pronouncing it as 'ah-kai'.",
-        "tip": "The correct pronunciation is 'ah-sigh-EE'"
-      },
-      {
-        "mistake": "Stressing the first syllable.",
-        "tip": "Primary stress is on the last syllable: ah-sigh-EE"
+        "mistake": "Pronouncing it as 'ah-kai' or 'ack-ee'.",
+        "tip": "It's 'ah-sigh-EE' - stress on the last syllable."
       }
     ],
     "partOfSpeech": "Noun",
     "regionSpecificDifferences": {
-      "Note": "The Portuguese pronunciation differs slightly"
+      "US": "Same as UK pronunciation",
+      "UK": "Same as US pronunciation"
     }
   },
   {
@@ -811,28 +784,29 @@
     "phonetic": "/ˈɑːrktɪk/",
     "pronunciationVariants": [
       {
-        "variant": "Standard",
+        "variant": "American English",
         "phonetic": "/ˈɑːrktɪk/"
+      },
+      {
+        "variant": "British English",
+        "phonetic": "/ˈɑːktɪk/"
       }
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Arctic",
     "exampleSentences": [
-      "Polar bears live in the Arctic.",
-      "Arctic temperatures are rising due to climate change."
+      "Polar bears live in the Arctic region.",
+      "The Arctic ice is melting due to climate change."
     ],
     "commonMistakes": [
       {
-        "mistake": "Omitting the first 'c' sound.",
-        "tip": "Remember to pronounce both 'c's: 'ark-tik'"
-      },
-      {
-        "mistake": "Adding an extra 't' sound.",
-        "tip": "There's only one 't' sound in the middle"
+        "mistake": "Dropping the first 'c' sound (pronouncing it as 'Ar-tic').",
+        "tip": "Remember to pronounce both 'c's: 'Arc-tic'."
       }
     ],
     "partOfSpeech": "Adjective/Noun",
     "regionSpecificDifferences": {
-      "Note": "Pronunciation is generally consistent"
+      "US": "Stronger 'r' sound",
+      "UK": "Softer 'r' sound"
     }
   },
   {
@@ -840,33 +814,29 @@
     "phonetic": "/ˌkærɪˈbiːən/",
     "pronunciationVariants": [
       {
-        "variant": "Standard",
-        "phonetic": "/ˌkærɪˈbiːən/"
+        "variant": "American English",
+        "phonetic": "/kəˈrɪbiən/"
       },
       {
-        "variant": "Alternative",
-        "phonetic": "/kəˈrɪbiən/"
+        "variant": "British English",
+        "phonetic": "/ˌkærɪˈbiːən/"
       }
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Caribbean",
     "exampleSentences": [
-      "We went on a Caribbean cruise.",
-      "Caribbean culture is rich and diverse."
+      "We went on a Caribbean cruise last winter.",
+      "Caribbean cuisine is very flavorful."
     ],
     "commonMistakes": [
       {
-        "mistake": "Stressing the wrong syllable.",
-        "tip": "Stress is on the third syllable: Ca-rib-BE-an"
-      },
-      {
-        "mistake": "Pronouncing it as 'Care-ib-bean'.",
-        "tip": "The first 'a' is short like in 'cat'"
+        "mistake": "Stressing the wrong syllable (CA-rib-bean instead of ca-RIB-bean).",
+        "tip": "Stress should be on the second syllable: ca-RIB-bean."
       }
     ],
     "partOfSpeech": "Adjective/Noun",
     "regionSpecificDifferences": {
-      "US": "More likely to use /kəˈrɪbiən/",
-      "UK": "More likely to use /ˌkærɪˈbiːən/"
+      "US": "First vowel is schwa /ə/",
+      "UK": "First vowel is /æ/"
     }
   },
   {
@@ -874,32 +844,29 @@
     "phonetic": "/ˈkʌmftəbəl/",
     "pronunciationVariants": [
       {
-        "variant": "Standard",
-        "phonetic": "/ˈkʌmftəbəl/"
+        "variant": "American English",
+        "phonetic": "/ˈkʌmfərtəbəl/"
       },
       {
-        "variant": "Careful pronunciation",
-        "phonetic": "/ˈkʌmfərtəbəl/"
+        "variant": "British English",
+        "phonetic": "/ˈkʌmftəbəl/"
       }
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Comfortable",
     "exampleSentences": [
       "This chair is very comfortable.",
-      "Are you comfortable with the decision?"
+      "Are you comfortable with this arrangement?"
     ],
     "commonMistakes": [
       {
-        "mistake": "Pronouncing it as 'com-for-ta-ble' with four syllables.",
-        "tip": "In natural speech, it's often three syllables: 'comf-ta-ble'"
-      },
-      {
-        "mistake": "Over-pronouncing the 'or' sound.",
-        "tip": "The 'or' is often reduced to just 'mft' in connected speech"
+        "mistake": "Pronouncing all four syllables distinctly (com-for-ta-ble).",
+        "tip": "In natural speech, it's often three syllables: 'comf-ta-ble'."
       }
     ],
     "partOfSpeech": "Adjective",
     "regionSpecificDifferences": {
-      "Note": "The reduced form is common in casual speech"
+      "US": "Often has an 'r' sound after 'comfo'",
+      "UK": "'r' is typically silent"
     }
   },
   {
@@ -907,28 +874,29 @@
     "phonetic": "/diːˈfɪbrɪleɪtər/",
     "pronunciationVariants": [
       {
-        "variant": "Standard",
+        "variant": "American English",
         "phonetic": "/diːˈfɪbrɪleɪtər/"
+      },
+      {
+        "variant": "British English",
+        "phonetic": "/diːˈfɪbrɪleɪtə/"
       }
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Defibrillator",
     "exampleSentences": [
-      "The nurse grabbed the defibrillator.",
-      "AED stands for automated external defibrillator."
+      "The nurse grabbed the defibrillator to restart the patient's heart.",
+      "Many public places now have automated defibrillators."
     ],
     "commonMistakes": [
       {
-        "mistake": "Omitting the first 'i' sound.",
-        "tip": "It's 'de-FIB-ril-lator', not 'de-FIB-ril-ator'"
-      },
-      {
-        "mistake": "Stressing the wrong syllable.",
-        "tip": "Primary stress is on the second syllable: de-FIB-ril-la-tor"
+        "mistake": "Misplacing the stress on the second syllable.",
+        "tip": "Stress is on the second syllable: de-FIB-ril-lator."
       }
     ],
     "partOfSpeech": "Noun",
     "regionSpecificDifferences": {
-      "Note": "Pronunciation is generally consistent"
+      "US": "Stronger 'r' at the end",
+      "UK": "Softer or absent 'r' at the end"
     }
   },
   {
@@ -936,32 +904,29 @@
     "phonetic": "/ˌɒntrəprəˈnɜːr/",
     "pronunciationVariants": [
       {
-        "variant": "Standard",
-        "phonetic": "/ˌɒntrəprəˈnɜːr/"
+        "variant": "American English",
+        "phonetic": "/ˌɑːntrəprəˈnɝː/"
       },
       {
-        "variant": "French-influenced",
-        "phonetic": "/ˌɒ̃trəprəˈnɜːr/"
+        "variant": "British English",
+        "phonetic": "/ˌɒntrəprəˈnɜː/"
       }
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Entrepreneur",
     "exampleSentences": [
-      "She's a successful entrepreneur with several businesses.",
-      "Entrepreneur magazine features innovative business ideas."
+      "She's a successful entrepreneur with three businesses.",
+      "Entrepreneur magazine features inspiring business stories."
     ],
     "commonMistakes": [
       {
-        "mistake": "Pronouncing it as 'en-tre-pre-ner'.",
-        "tip": "The ending is '-neur' (like 'nur')"
-      },
-      {
-        "mistake": "Stressing the first syllable.",
-        "tip": "Primary stress is on the last syllable: en-tre-pre-NEUR"
+        "mistake": "Dropping syllables in the middle of the word.",
+        "tip": "Break it down: on-truh-pruh-NUR."
       }
     ],
     "partOfSpeech": "Noun",
     "regionSpecificDifferences": {
-      "Note": "The French pronunciation is closer to the original"
+      "US": "First vowel is /ɑː/, stronger rhotic ending",
+      "UK": "First vowel is /ɒ/, less rhotic ending"
     }
   },
   {
@@ -969,7 +934,11 @@
     "phonetic": "/ɪˈpɪtəmi/",
     "pronunciationVariants": [
       {
-        "variant": "Standard",
+        "variant": "American English",
+        "phonetic": "/ɪˈpɪtəmi/"
+      },
+      {
+        "variant": "British English",
         "phonetic": "/ɪˈpɪtəmi/"
       }
     ],
@@ -980,17 +949,14 @@
     ],
     "commonMistakes": [
       {
-        "mistake": "Pronouncing it as 'epi-tome' (like 'tome' of a book).",
-        "tip": "It's pronounced 'e-PIT-o-mee'"
-      },
-      {
-        "mistake": "Stressing the first syllable.",
-        "tip": "Stress is on the second syllable: e-PIT-o-me"
+        "mistake": "Pronouncing it as it's spelled (epi-tome).",
+        "tip": "It's pronounced 'ih-PIT-uh-mee' - rhymes with 'anatomy'."
       }
     ],
     "partOfSpeech": "Noun",
     "regionSpecificDifferences": {
-      "Note": "Pronunciation is generally consistent"
+      "US": "Same as UK pronunciation",
+      "UK": "Same as US pronunciation"
     }
   },
   {
@@ -998,28 +964,29 @@
     "phonetic": "/ɡeɪdʒ/",
     "pronunciationVariants": [
       {
-        "variant": "Standard",
+        "variant": "American English",
+        "phonetic": "/ɡeɪdʒ/"
+      },
+      {
+        "variant": "British English",
         "phonetic": "/ɡeɪdʒ/"
       }
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Gauge",
     "exampleSentences": [
-      "Check the pressure gauge regularly.",
-      "It's hard to gauge his reaction."
+      "The fuel gauge was showing empty.",
+      "We need to gauge public opinion on this issue."
     ],
     "commonMistakes": [
       {
-        "mistake": "Pronouncing it as 'gawj'.",
-        "tip": "It rhymes with 'page': 'gayj'"
-      },
-      {
-        "mistake": "Adding extra syllables.",
-        "tip": "It's one syllable only"
+        "mistake": "Pronouncing it as 'gauj' (like 'garage').",
+        "tip": "It's pronounced exactly like 'gage'."
       }
     ],
     "partOfSpeech": "Noun/Verb",
     "regionSpecificDifferences": {
-      "Note": "Pronunciation is generally consistent"
+      "US": "Same as UK pronunciation",
+      "UK": "Same as US pronunciation"
     }
   },
   {
@@ -1027,32 +994,29 @@
     "phonetic": "/ˈʒɒnrə/",
     "pronunciationVariants": [
       {
-        "variant": "Standard",
-        "phonetic": "/ˈʒɒnrə/"
+        "variant": "American English",
+        "phonetic": "/ˈʒɑːnrə/"
       },
       {
-        "variant": "French-influenced",
-        "phonetic": "/ˈʒɑ̃ːrə/"
+        "variant": "British English",
+        "phonetic": "/ˈʒɒnrə/"
       }
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Genre",
     "exampleSentences": [
       "What genre of music do you prefer?",
-      "Science fiction is my favorite literary genre."
+      "This book crosses several literary genres."
     ],
     "commonMistakes": [
       {
-        "mistake": "Pronouncing the 'g' as hard.",
-        "tip": "The 'g' is soft like in 'vision': 'zhon-ra'"
-      },
-      {
-        "mistake": "Adding extra syllables.",
-        "tip": "It's two syllables: 'zhon-ruh'"
+        "mistake": "Pronouncing the 'g' as hard (like in 'go').",
+        "tip": "The 'g' is soft, like the 's' in 'measure'."
       }
     ],
     "partOfSpeech": "Noun",
     "regionSpecificDifferences": {
-      "Note": "The French pronunciation is closer to the original"
+      "US": "First vowel is /ɑː/",
+      "UK": "First vowel is /ɒ/"
     }
   },
   {
@@ -1060,28 +1024,29 @@
     "phonetic": "/nəʊm/",
     "pronunciationVariants": [
       {
-        "variant": "Standard",
+        "variant": "American English",
+        "phonetic": "/noʊm/"
+      },
+      {
+        "variant": "British English",
         "phonetic": "/nəʊm/"
       }
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Gnome",
     "exampleSentences": [
-      "The garden had a little gnome statue.",
+      "There's a garden gnome in their backyard.",
       "In folklore, gnomes are earth elementals."
     ],
     "commonMistakes": [
       {
-        "mistake": "Pronouncing the 'g'.",
-        "tip": "The 'g' is silent: 'nome'"
-      },
-      {
-        "mistake": "Rhyming it with 'home'.",
-        "tip": "It does rhyme with 'home' - the 'g' is silent"
+        "mistake": "Pronouncing the 'g' at the beginning.",
+        "tip": "The 'g' is silent - it's pronounced 'nome'."
       }
     ],
     "partOfSpeech": "Noun",
     "regionSpecificDifferences": {
-      "Note": "Pronunciation is generally consistent"
+      "US": "Diphthong is /oʊ/",
+      "UK": "Diphthong is /əʊ/"
     }
   },
   {
@@ -1089,28 +1054,29 @@
     "phonetic": "/haɪˈpɜːrbəli/",
     "pronunciationVariants": [
       {
-        "variant": "Standard",
+        "variant": "American English",
         "phonetic": "/haɪˈpɜːrbəli/"
+      },
+      {
+        "variant": "British English",
+        "phonetic": "/haɪˈpɜːbəli/"
       }
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Hyperbole",
     "exampleSentences": [
-      "His claim was clearly hyperbole.",
-      "Poets often use hyperbole for effect."
+      "Saying 'I'm so hungry I could eat a horse' is hyperbole.",
+      "The advertisement used hyperbole to make its point."
     ],
     "commonMistakes": [
       {
-        "mistake": "Pronouncing it as 'hyper-bowl'.",
-        "tip": "The ending is '-bol-ee'"
-      },
-      {
-        "mistake": "Stressing the first syllable.",
-        "tip": "Stress is on the second syllable: hy-PER-bo-lee"
+        "mistake": "Pronouncing it like 'hyper-bowl'.",
+        "tip": "The ending is '-buh-lee', not '-bowl'."
       }
     ],
     "partOfSpeech": "Noun",
     "regionSpecificDifferences": {
-      "Note": "Pronunciation is generally consistent"
+      "US": "Stronger 'r' sound",
+      "UK": "Softer 'r' sound"
     }
   },
   {
@@ -1118,28 +1084,29 @@
     "phonetic": "/ˈaɪrəni/",
     "pronunciationVariants": [
       {
-        "variant": "Standard",
+        "variant": "American English",
+        "phonetic": "/ˈaɪrəni/"
+      },
+      {
+        "variant": "British English",
         "phonetic": "/ˈaɪrəni/"
       }
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Irony",
     "exampleSentences": [
-      "The irony was that he got sick on vacation.",
-      "There's some irony in the situation."
+      "The irony was that he was a firefighter afraid of fire.",
+      "There's some irony in a health teacher getting sick."
     ],
     "commonMistakes": [
       {
-        "mistake": "Pronouncing it as 'iron-ee' (like the metal).",
-        "tip": "It's 'eye-run-ee' - the 'r' comes before the 'o' sound"
-      },
-      {
-        "mistake": "Stressing the wrong syllable.",
-        "tip": "Stress is on the first syllable: EYE-run-ee"
+        "mistake": "Confusing it with 'coincidence'.",
+        "tip": "Irony involves an opposite outcome to what was expected."
       }
     ],
     "partOfSpeech": "Noun",
     "regionSpecificDifferences": {
-      "Note": "Pronunciation is generally consistent"
+      "US": "Same as UK pronunciation",
+      "UK": "Same as US pronunciation"
     }
   },
   {
@@ -1147,32 +1114,29 @@
     "phonetic": "/ˌhæləˈpeɪnjəʊ/",
     "pronunciationVariants": [
       {
-        "variant": "English",
-        "phonetic": "/ˌhæləˈpeɪnjəʊ/"
+        "variant": "American English",
+        "phonetic": "/ˌhɑːləˈpeɪnjoʊ/"
       },
       {
-        "variant": "Spanish",
-        "phonetic": "/xalaˈpeɲo/"
+        "variant": "British English",
+        "phonetic": "/ˌhæləˈpeɪnjəʊ/"
       }
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Jalapeno",
     "exampleSentences": [
-      "The nachos were topped with jalapeño peppers.",
-      "How spicy is this jalapeño?"
+      "The nachos were topped with jalapeno peppers.",
+      "This salsa has just the right amount of jalapeno."
     ],
     "commonMistakes": [
       {
         "mistake": "Pronouncing the 'j' as in 'jam'.",
-        "tip": "The 'j' sounds like an 'h': 'ha-la-PAY-nyo'"
-      },
-      {
-        "mistake": "Omitting the tilde (ñ) sound.",
-        "tip": "The 'ñ' creates a 'ny' sound in the last syllable"
+        "tip": "The 'j' is pronounced like an 'h': 'ha-la-PAY-nyo'."
       }
     ],
     "partOfSpeech": "Noun",
     "regionSpecificDifferences": {
-      "Note": "The Spanish pronunciation differs significantly"
+      "US": "First vowel is /ɑː/",
+      "UK": "First vowel is /æ/"
     }
   },
   {
@@ -1180,12 +1144,12 @@
     "phonetic": "/ˈlɒnʒəreɪ/",
     "pronunciationVariants": [
       {
-        "variant": "English",
-        "phonetic": "/ˈlɒnʒəreɪ/"
+        "variant": "American English",
+        "phonetic": "/ˌlɑːnʒəˈreɪ/"
       },
       {
-        "variant": "French",
-        "phonetic": "/lɛ̃ʒʁi/"
+        "variant": "British English",
+        "phonetic": "/ˈlænʒəri/"
       }
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Lingerie",
@@ -1195,17 +1159,14 @@
     ],
     "commonMistakes": [
       {
-        "mistake": "Pronouncing it as 'lin-ger-ee'.",
-        "tip": "It's 'lon-zhu-ray' with a French-inspired pronunciation"
-      },
-      {
-        "mistake": "Stressing the first syllable.",
-        "tip": "In English, stress is often on the first syllable: LON-zhu-ray"
+        "mistake": "Pronouncing the 'g' as hard (like in 'go').",
+        "tip": "The 'g' is soft, like the 's' in 'measure'."
       }
     ],
     "partOfSpeech": "Noun",
     "regionSpecificDifferences": {
-      "Note": "The French pronunciation is quite different"
+      "US": "French-influenced pronunciation with stress on last syllable",
+      "UK": "More anglicized pronunciation with stress on first syllable"
     }
   },
   {
@@ -1213,28 +1174,29 @@
     "phonetic": "/məˈmentəʊ/",
     "pronunciationVariants": [
       {
-        "variant": "Standard",
+        "variant": "American English",
+        "phonetic": "/məˈmentoʊ/"
+      },
+      {
+        "variant": "British English",
         "phonetic": "/məˈmentəʊ/"
       }
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Memento",
     "exampleSentences": [
-      "She kept the ticket as a memento of the concert.",
-      "The photo was a memento of their trip."
+      "She kept the ticket stub as a memento of the concert.",
+      "This ring is a memento from my grandmother."
     ],
     "commonMistakes": [
       {
-        "mistake": "Pronouncing it as 'me-men-toe' with equal stress.",
-        "tip": "Stress is on the second syllable: me-MEN-toe"
-      },
-      {
-        "mistake": "Confusing it with 'momentum'.",
-        "tip": "These are different words with different meanings"
+        "mistake": "Pronouncing it as 'me-MEN-toe'.",
+        "tip": "Stress is on the second syllable: me-MEN-toe."
       }
     ],
     "partOfSpeech": "Noun",
     "regionSpecificDifferences": {
-      "Note": "Pronunciation is generally consistent"
+      "US": "Ends with /oʊ/",
+      "UK": "Ends with /əʊ/"
     }
   },
   {
@@ -1242,57 +1204,59 @@
     "phonetic": "/ˌmɔːsəˈliːəm/",
     "pronunciationVariants": [
       {
-        "variant": "Standard",
+        "variant": "American English",
+        "phonetic": "/ˌmɔːsəˈliːəm/"
+      },
+      {
+        "variant": "British English",
         "phonetic": "/ˌmɔːsəˈliːəm/"
       }
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Mausoleum",
     "exampleSentences": [
-      "The ancient mausoleum was beautifully preserved.",
-      "They visited the royal mausoleum."
+      "The ancient mausoleum was a popular tourist attraction.",
+      "The family built a private mausoleum in the cemetery."
     ],
     "commonMistakes": [
       {
-        "mistake": "Pronouncing it as 'maw-so-lee-um'.",
-        "tip": "The 's' is followed by a schwa: 'maw-suh-LEE-um'"
-      },
-      {
-        "mistake": "Stressing the wrong syllable.",
-        "tip": "Primary stress is on the third syllable: maw-suh-LEE-um"
+        "mistake": "Misplacing the stress on the first syllable.",
+        "tip": "Stress is on the third syllable: maw-suh-LEE-um."
       }
     ],
     "partOfSpeech": "Noun",
     "regionSpecificDifferences": {
-      "Note": "Pronunciation is generally consistent"
+      "US": "Same as UK pronunciation",
+      "UK": "Same as US pronunciation"
     }
   },
   {
     "term": "Mediterranean",
-    "phonetic": "/ˌmedɪtəˈreɪniən/",
+    "phonetic": "/ˌmɛdɪtəˈreɪniən/",
     "pronunciationVariants": [
       {
-        "variant": "Standard",
-        "phonetic": "/ˌmedɪtəˈreɪniən/"
+        "variant": "American English",
+        "phonetic": "/ˌmɛdɪtəˈreɪniən/"
+      },
+      {
+        "variant": "British English",
+        "phonetic": "/ˌmɛdɪtəˈreɪniən/"
       }
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Mediterranean",
     "exampleSentences": [
-      "They took a Mediterranean cruise.",
-      "Mediterranean cuisine is very healthy."
+      "We took a Mediterranean cruise last summer.",
+      "Mediterranean cuisine is known for its use of olive oil."
     ],
     "commonMistakes": [
       {
-        "mistake": "Adding extra syllables.",
-        "tip": "It's six syllables: med-i-ter-RA-ne-an"
-      },
-      {
-        "mistake": "Stressing the wrong syllable.",
-        "tip": "Primary stress is on the fourth syllable"
+        "mistake": "Adding an extra syllable (me-di-ter-ra-ne-an).",
+        "tip": "It's six syllables: med-i-ter-ra-ne-an."
       }
     ],
     "partOfSpeech": "Adjective/Noun",
     "regionSpecificDifferences": {
-      "Note": "Pronunciation is generally consistent"
+      "US": "Same as UK pronunciation",
+      "UK": "Same as US pronunciation"
     }
   },
   {
@@ -1300,32 +1264,29 @@
     "phonetic": "/ˈnɔːziəs/",
     "pronunciationVariants": [
       {
-        "variant": "Standard",
+        "variant": "American English",
         "phonetic": "/ˈnɔːziəs/"
       },
       {
-        "variant": "Alternative",
-        "phonetic": "/ˈnɔːʃəs/"
+        "variant": "British English",
+        "phonetic": "/ˈnɔːziəs/"
       }
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Nauseous",
     "exampleSentences": [
-      "The rocking boat made her nauseous.",
-      "I feel nauseous after that meal."
+      "The roller coaster made me feel nauseous.",
+      "She had a nauseous reaction to the medication."
     ],
     "commonMistakes": [
       {
         "mistake": "Pronouncing it as 'naw-shus'.",
-        "tip": "The preferred pronunciation is 'naw-zee-us'"
-      },
-      {
-        "mistake": "Confusing it with 'nauseated'.",
-        "tip": "These have related but distinct meanings"
+        "tip": "It's 'naw-zee-us' - three syllables."
       }
     ],
     "partOfSpeech": "Adjective",
     "regionSpecificDifferences": {
-      "Note": "Both pronunciations are used, but 'naw-zee-us' is preferred"
+      "US": "Same as UK pronunciation",
+      "UK": "Same as US pronunciation"
     }
   },
   {
@@ -1333,28 +1294,29 @@
     "phonetic": "/ˈnɛsəsəri/",
     "pronunciationVariants": [
       {
-        "variant": "Standard",
+        "variant": "American English",
+        "phonetic": "/ˈnɛsəˌsɛri/"
+      },
+      {
+        "variant": "British English",
         "phonetic": "/ˈnɛsəsəri/"
       }
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Necessary",
     "exampleSentences": [
-      "Is it necessary to bring a passport?",
-      "We took all necessary precautions."
+      "It's necessary to wear a seatbelt while driving.",
+      "Do you have all the necessary documents?"
     ],
     "commonMistakes": [
       {
-        "mistake": "Adding extra 'c' or 's' sounds.",
-        "tip": "It's 'ness-ess-ary' - one 'c' and two 's's"
-      },
-      {
-        "mistake": "Stressing the wrong syllable.",
-        "tip": "Stress is on the first syllable: NESS-ess-ary"
+        "mistake": "Spelling or pronouncing it with double 'c' and single 's'.",
+        "tip": "Remember it's one 'c' and two 's's: ne-ce-ssa-ry."
       }
     ],
     "partOfSpeech": "Adjective",
     "regionSpecificDifferences": {
-      "Note": "Pronunciation is generally consistent"
+      "US": "More distinct 'sary' ending",
+      "UK": "More schwa sounds in the middle"
     }
   },
   {
@@ -1362,28 +1324,29 @@
     "phonetic": "/əˈblɪviəs/",
     "pronunciationVariants": [
       {
-        "variant": "Standard",
+        "variant": "American English",
+        "phonetic": "/əˈblɪviəs/"
+      },
+      {
+        "variant": "British English",
         "phonetic": "/əˈblɪviəs/"
       }
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Oblivious",
     "exampleSentences": [
-      "He was oblivious to the danger.",
-      "She walked on, oblivious to the commotion."
+      "He was oblivious to the noise around him.",
+      "She walked past, oblivious to our presence."
     ],
     "commonMistakes": [
       {
-        "mistake": "Pronouncing it as 'ob-liv-ee-us' with stress on first syllable.",
-        "tip": "Stress is on the second syllable: ob-LIV-ee-us"
-      },
-      {
-        "mistake": "Omitting the 'i' sound.",
-        "tip": "It's 'ob-LIV-ee-us', not 'ob-LIV-us'"
+        "mistake": "Stressing the second syllable.",
+        "tip": "Stress is on the second syllable: oh-BLIV-ee-us."
       }
     ],
     "partOfSpeech": "Adjective",
     "regionSpecificDifferences": {
-      "Note": "Pronunciation is generally consistent"
+      "US": "Same as UK pronunciation",
+      "UK": "Same as US pronunciation"
     }
   },
   {
@@ -1391,29 +1354,29 @@
     "phonetic": "/ˈɔːrnəri/",
     "pronunciationVariants": [
       {
-        "variant": "Standard",
+        "variant": "American English",
         "phonetic": "/ˈɔːrnəri/"
+      },
+      {
+        "variant": "British English",
+        "phonetic": "/ˈɔːnəri/"
       }
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Ornery",
     "exampleSentences": [
-      "The old man was known for being ornery.",
-      "She gets ornery when she's tired."
+      "The old man had an ornery disposition.",
+      "The ornery mule refused to move."
     ],
     "commonMistakes": [
       {
         "mistake": "Pronouncing it as 'or-ner-ee' with three syllables.",
-        "tip": "It's two syllables: 'or-nery'"
-      },
-      {
-        "mistake": "Stressing the wrong syllable.",
-        "tip": "Stress is on the first syllable: OR-nery"
+        "tip": "It's two syllables: 'or-nery'."
       }
     ],
     "partOfSpeech": "Adjective",
     "regionSpecificDifferences": {
-      "US": "More commonly used",
-      "UK": "Less commonly used"
+      "US": "Strong 'r' sounds",
+      "UK": "Softer 'r' sounds"
     }
   },
   {
@@ -1421,28 +1384,29 @@
     "phonetic": "/ˈpælɪt/",
     "pronunciationVariants": [
       {
-        "variant": "Standard",
+        "variant": "American English",
+        "phonetic": "/ˈpælɪt/"
+      },
+      {
+        "variant": "British English",
         "phonetic": "/ˈpælɪt/"
       }
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Palette",
     "exampleSentences": [
       "The artist mixed colors on her palette.",
-      "The designer chose a warm color palette."
+      "The designer chose a warm color palette for the website."
     ],
     "commonMistakes": [
       {
-        "mistake": "Pronouncing it as 'pa-let' (like 'pallet').",
-        "tip": "It's 'pal-it' - rhymes with 'mallet'"
-      },
-      {
         "mistake": "Confusing it with 'palate' or 'pallet'.",
-        "tip": "These are homophones but have different meanings"
+        "tip": "'Palette' refers to colors, 'palate' to taste, and 'pallet' to a platform for moving goods."
       }
     ],
     "partOfSpeech": "Noun",
     "regionSpecificDifferences": {
-      "Note": "Pronunciation is generally consistent"
+      "US": "Same as UK pronunciation",
+      "UK": "Same as US pronunciation"
     }
   },
   {
@@ -1450,28 +1414,29 @@
     "phonetic": "/ˌpærəfəˈneɪliə/",
     "pronunciationVariants": [
       {
-        "variant": "Standard",
+        "variant": "American English",
+        "phonetic": "/ˌpærəfərˈneɪliə/"
+      },
+      {
+        "variant": "British English",
         "phonetic": "/ˌpærəfəˈneɪliə/"
       }
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Paraphernalia",
     "exampleSentences": [
       "The desk was cluttered with writing paraphernalia.",
-      "They confiscated his drug paraphernalia."
+      "They confiscated drug paraphernalia during the raid."
     ],
     "commonMistakes": [
       {
-        "mistake": "Omitting syllables in pronunciation.",
-        "tip": "It's five syllables: pa-ra-fer-NAY-li-a"
-      },
-      {
         "mistake": "Stressing the wrong syllable.",
-        "tip": "Primary stress is on the fourth syllable"
+        "tip": "Primary stress is on 'nay': para-fer-NAY-lia."
       }
     ],
     "partOfSpeech": "Noun",
     "regionSpecificDifferences": {
-      "Note": "Pronunciation is generally consistent"
+      "US": "More distinct 'r' sounds",
+      "UK": "Softer 'r' sounds"
     }
   },
   {
@@ -1479,28 +1444,29 @@
     "phonetic": "/ˌpɜːrsəˈvɪərəns/",
     "pronunciationVariants": [
       {
-        "variant": "Standard",
-        "phonetic": "/ˌpɜːrsəˈvɪərəns/"
+        "variant": "American English",
+        "phonetic": "/ˌpɜːrsəˈvɪrəns/"
+      },
+      {
+        "variant": "British English",
+        "phonetic": "/ˌpɜːsəˈvɪərəns/"
       }
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Perseverance",
     "exampleSentences": [
-      "Success requires perseverance.",
-      "Her perseverance paid off in the end."
+      "Her perseverance helped her overcome many obstacles.",
+      "Success requires talent and perseverance."
     ],
     "commonMistakes": [
       {
-        "mistake": "Pronouncing it as 'per-se-ver-ance'.",
-        "tip": "It's 'per-se-VEER-ance' with stress on the third syllable"
-      },
-      {
-        "mistake": "Omitting the 'r' sounds.",
-        "tip": "All three 'r's should be pronounced"
+        "mistake": "Misplacing the stress on the second syllable.",
+        "tip": "Stress is on the third syllable: per-se-VEER-ance."
       }
     ],
     "partOfSpeech": "Noun",
     "regionSpecificDifferences": {
-      "Note": "Pronunciation is generally consistent"
+      "US": "Stronger 'r' sounds",
+      "UK": "Softer 'r' sounds"
     }
   },
   {
@@ -1508,28 +1474,29 @@
     "phonetic": "/flɛm/",
     "pronunciationVariants": [
       {
-        "variant": "Standard",
+        "variant": "American English",
+        "phonetic": "/flɛm/"
+      },
+      {
+        "variant": "British English",
         "phonetic": "/flɛm/"
       }
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Phlegm",
     "exampleSentences": [
-      "The cold caused buildup of phlegm in his throat.",
-      "Coughing helps clear phlegm from the lungs."
+      "The cold caused him to cough up phlegm.",
+      "Excess phlegm can be a symptom of infection."
     ],
     "commonMistakes": [
       {
-        "mistake": "Pronouncing the 'ph' as 'f' and the 'g'.",
-        "tip": "It's pronounced simply as 'flem' - the 'g' is silent"
-      },
-      {
-        "mistake": "Adding extra sounds.",
-        "tip": "It's one syllable only"
+        "mistake": "Pronouncing the 'ph' as /f/ and the 'g'.",
+        "tip": "The 'ph' is /f/ and the 'g' is silent: 'flem'."
       }
     ],
     "partOfSpeech": "Noun",
     "regionSpecificDifferences": {
-      "Note": "Pronunciation is generally consistent"
+      "US": "Same as UK pronunciation",
+      "UK": "Same as US pronunciation"
     }
   },
   {
@@ -1537,28 +1504,29 @@
     "phonetic": "/njuːˈməʊniə/",
     "pronunciationVariants": [
       {
-        "variant": "Standard",
+        "variant": "American English",
+        "phonetic": "/nuːˈmoʊniə/"
+      },
+      {
+        "variant": "British English",
         "phonetic": "/njuːˈməʊniə/"
       }
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Pneumonia",
     "exampleSentences": [
-      "He was hospitalized with pneumonia.",
-      "Elderly people are more vulnerable to pneumonia."
+      "The elderly patient was hospitalized with pneumonia.",
+      "Viral pneumonia can be very dangerous."
     ],
     "commonMistakes": [
       {
-        "mistake": "Pronouncing the 'p'.",
-        "tip": "The 'p' is silent: 'new-MOAN-ya'"
-      },
-      {
-        "mistake": "Stressing the wrong syllable.",
-        "tip": "Stress is on the second syllable: new-MOAN-ya"
+        "mistake": "Pronouncing the 'p' at the beginning.",
+        "tip": "The 'p' is silent: 'new-MOAN-ya'."
       }
     ],
     "partOfSpeech": "Noun",
     "regionSpecificDifferences": {
-      "Note": "Pronunciation is generally consistent"
+      "US": "No 'y' sound, ends with /oʊ/",
+      "UK": "'y' sound present, ends with /əʊ/"
     }
   },
   {
@@ -1566,28 +1534,29 @@
     "phonetic": "/ˈsuːdənɪm/",
     "pronunciationVariants": [
       {
-        "variant": "Standard",
+        "variant": "American English",
         "phonetic": "/ˈsuːdənɪm/"
+      },
+      {
+        "variant": "British English",
+        "phonetic": "/ˈsjuːdənɪm/"
       }
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Pseudonym",
     "exampleSentences": [
-      "Mark Twain was a pseudonym for Samuel Clemens.",
-      "The author wrote under a pseudonym."
+      "The author wrote under a pseudonym.",
+      "Mark Twain was Samuel Clemens' pseudonym."
     ],
     "commonMistakes": [
       {
-        "mistake": "Pronouncing the 'p'.",
-        "tip": "The 'p' is silent: 'SOO-doh-nim'"
-      },
-      {
-        "mistake": "Stressing the wrong syllable.",
-        "tip": "Stress is on the first syllable: SOO-do-nym"
+        "mistake": "Pronouncing the 'p' at the beginning.",
+        "tip": "The 'p' is silent: 'SOO-doh-nim'."
       }
     ],
     "partOfSpeech": "Noun",
     "regionSpecificDifferences": {
-      "Note": "Pronunciation is generally consistent"
+      "US": "No 'y' sound after 's'",
+      "UK": "May include 'y' sound after 's'"
     }
   },
   {
@@ -1595,28 +1564,29 @@
     "phonetic": "/ˈriːəltər/",
     "pronunciationVariants": [
       {
-        "variant": "Standard",
+        "variant": "American English",
         "phonetic": "/ˈriːəltər/"
+      },
+      {
+        "variant": "British English",
+        "phonetic": "/ˈriːəltə/"
       }
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Realtor",
     "exampleSentences": [
-      "We contacted a realtor to help us buy a house.",
+      "We're working with a realtor to find our dream home.",
       "She's been a successful realtor for 15 years."
     ],
     "commonMistakes": [
       {
         "mistake": "Pronouncing it as 'real-a-tor' with three syllables.",
-        "tip": "It's two syllables: 'REEL-tor'"
-      },
-      {
-        "mistake": "Adding an extra 'a' sound.",
-        "tip": "There's no 'a' sound between 'real' and 'tor'"
+        "tip": "It's two syllables: 'real-tor'."
       }
     ],
     "partOfSpeech": "Noun",
     "regionSpecificDifferences": {
-      "Note": "Pronunciation is generally consistent"
+      "US": "Stronger 'r' at the end",
+      "UK": "Softer or absent 'r' at the end"
     }
   },
   {
@@ -1624,12 +1594,12 @@
     "phonetic": "/ˈrɒndeɪvuː/",
     "pronunciationVariants": [
       {
-        "variant": "English",
-        "phonetic": "/ˈrɒndeɪvuː/"
+        "variant": "American English",
+        "phonetic": "/ˈrɑːndeɪvuː/"
       },
       {
-        "variant": "French",
-        "phonetic": "/ʁɑ̃devu/"
+        "variant": "British English",
+        "phonetic": "/ˈrɒndeɪvuː/"
       }
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Rendezvous",
@@ -1640,16 +1610,13 @@
     "commonMistakes": [
       {
         "mistake": "Pronouncing the 'z' at the end.",
-        "tip": "The 's' is silent: 'RON-day-voo'"
-      },
-      {
-        "mistake": "Adding extra syllables.",
-        "tip": "It's three syllables in English"
+        "tip": "The 'z' is silent: 'RON-day-voo'."
       }
     ],
     "partOfSpeech": "Noun/Verb",
     "regionSpecificDifferences": {
-      "Note": "The French pronunciation is quite different"
+      "US": "First vowel is /ɑː/",
+      "UK": "First vowel is /ɒ/"
     }
   },
   {
@@ -1657,32 +1624,29 @@
     "phonetic": "/ˈsæmʊraɪ/",
     "pronunciationVariants": [
       {
-        "variant": "English",
-        "phonetic": "/ˈsæmʊraɪ/"
+        "variant": "American English",
+        "phonetic": "/ˈsæməraɪ/"
       },
       {
-        "variant": "Japanese",
-        "phonetic": "/samɯɾai/"
+        "variant": "British English",
+        "phonetic": "/ˈsæmʊraɪ/"
       }
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Samurai",
     "exampleSentences": [
-      "The samurai were skilled warriors.",
-      "This movie tells the story of a samurai."
+      "The samurai warrior carried two swords.",
+      "This film tells the story of the last samurai."
     ],
     "commonMistakes": [
       {
-        "mistake": "Pronouncing it as 'sam-you-rye'.",
-        "tip": "It's 'SAM-oo-rye' - three syllables"
-      },
-      {
         "mistake": "Stressing the wrong syllable.",
-        "tip": "Stress is on the first syllable: SAM-oo-rye"
+        "tip": "Stress is on the first syllable: SAM-uh-rye."
       }
     ],
     "partOfSpeech": "Noun",
     "regionSpecificDifferences": {
-      "Note": "The Japanese pronunciation differs"
+      "US": "Middle vowel is schwa /ə/",
+      "UK": "Middle vowel is /ʊ/"
     }
   },
   {
@@ -1690,28 +1654,29 @@
     "phonetic": "/ˈsɪzərz/",
     "pronunciationVariants": [
       {
-        "variant": "Standard",
+        "variant": "American English",
         "phonetic": "/ˈsɪzərz/"
+      },
+      {
+        "variant": "British English",
+        "phonetic": "/ˈsɪzəz/"
       }
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Scissors",
     "exampleSentences": [
-      "Pass me the scissors, please.",
+      "Can you pass me the scissors?",
       "These scissors aren't sharp enough."
     ],
     "commonMistakes": [
       {
         "mistake": "Pronouncing the 'c' as a hard 'k' sound.",
-        "tip": "The 'c' is silent: 'siz-ors'"
-      },
-      {
-        "mistake": "Adding extra syllables.",
-        "tip": "It's two syllables: 'siz-ors'"
+        "tip": "The 'c' is silent: 'siz-ors'."
       }
     ],
     "partOfSpeech": "Noun",
     "regionSpecificDifferences": {
-      "Note": "Pronunciation is generally consistent"
+      "US": "Stronger 'r' sound at the end",
+      "UK": "Softer or absent 'r' sound at the end"
     }
   },
   {
@@ -1719,28 +1684,29 @@
     "phonetic": "/ˈʃɜːrbət/",
     "pronunciationVariants": [
       {
-        "variant": "Standard",
-        "phonetic": "/ˈʃɜːrbət/"
+        "variant": "American English",
+        "phonetic": "/ˈʃɝːbət/"
+      },
+      {
+        "variant": "British English",
+        "phonetic": "/ˈʃɜːbət/"
       }
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Sherbet",
     "exampleSentences": [
-      "The children enjoyed orange sherbet.",
-      "Sherbet is a frozen dessert similar to sorbet."
+      "The kids love orange sherbet.",
+      "She made a raspberry sherbet for dessert."
     ],
     "commonMistakes": [
       {
-        "mistake": "Pronouncing it as 'sher-bert' with an extra 'r'.",
-        "tip": "It's 'sher-bet' - no second 'r'"
-      },
-      {
-        "mistake": "Confusing it with 'sorbet'.",
-        "tip": "These are different types of desserts"
+        "mistake": "Adding an extra 'r' (pronouncing it as 'sher-bert').",
+        "tip": "It's 'sher-bet' - only one 'r'."
       }
     ],
     "partOfSpeech": "Noun",
     "regionSpecificDifferences": {
-      "Note": "'Sherbert' is a common misspelling and mispronunciation"
+      "US": "More rhotic pronunciation",
+      "UK": "Less rhotic pronunciation"
     }
   },
   {
@@ -1748,28 +1714,29 @@
     "phonetic": "/ˈsəʊdiəm/",
     "pronunciationVariants": [
       {
-        "variant": "Standard",
+        "variant": "American English",
+        "phonetic": "/ˈsoʊdiəm/"
+      },
+      {
+        "variant": "British English",
         "phonetic": "/ˈsəʊdiəm/"
       }
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Sodium",
     "exampleSentences": [
-      "Sodium is an essential mineral.",
+      "Sodium is an essential mineral for the body.",
       "Table salt contains sodium and chloride."
     ],
     "commonMistakes": [
       {
-        "mistake": "Pronouncing it as 'sod-ee-um' with equal stress.",
-        "tip": "Stress is on the first syllable: SO-dee-um"
-      },
-      {
-        "mistake": "Omitting the 'i' sound.",
-        "tip": "It's 'SO-dee-um', not 'SO-dee-um'"
+        "mistake": "Pronouncing it as 'so-dee-um' with three syllables.",
+        "tip": "It's two syllables: 'SO-dee-um'."
       }
     ],
     "partOfSpeech": "Noun",
     "regionSpecificDifferences": {
-      "Note": "Pronunciation is generally consistent"
+      "US": "First vowel is /oʊ/",
+      "UK": "First vowel is /əʊ/"
     }
   },
   {
@@ -1777,7 +1744,11 @@
     "phonetic": "/ˈsʌtəl/",
     "pronunciationVariants": [
       {
-        "variant": "Standard",
+        "variant": "American English",
+        "phonetic": "/ˈsʌtəl/"
+      },
+      {
+        "variant": "British English",
         "phonetic": "/ˈsʌtəl/"
       }
     ],
@@ -1789,16 +1760,13 @@
     "commonMistakes": [
       {
         "mistake": "Pronouncing the 'b'.",
-        "tip": "The 'b' is silent: 'sut-tle'"
-      },
-      {
-        "mistake": "Adding extra syllables.",
-        "tip": "It's two syllables: 'sut-tle'"
+        "tip": "The 'b' is silent: 'suttle'."
       }
     ],
     "partOfSpeech": "Adjective",
     "regionSpecificDifferences": {
-      "Note": "Pronunciation is generally consistent"
+      "US": "Same as UK pronunciation",
+      "UK": "Same as US pronunciation"
     }
   },
   {
@@ -1806,28 +1774,29 @@
     "phonetic": "/təˈræntʃələ/",
     "pronunciationVariants": [
       {
-        "variant": "Standard",
+        "variant": "American English",
         "phonetic": "/təˈræntʃələ/"
+      },
+      {
+        "variant": "British English",
+        "phonetic": "/təˈræntjʊlə/"
       }
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Tarantula",
     "exampleSentences": [
       "A tarantula crawled across the desert floor.",
-      "She screamed when she saw the tarantula."
+      "She screamed when she saw the tarantula in the bathroom."
     ],
     "commonMistakes": [
       {
-        "mistake": "Pronouncing it as 'ta-ran-too-la'.",
-        "tip": "The middle is '-tan-chu-la'"
-      },
-      {
-        "mistake": "Stressing the wrong syllable.",
-        "tip": "Stress is on the second syllable: ta-RAN-chu-la"
+        "mistake": "Misplacing the stress on the second syllable.",
+        "tip": "Stress is on the second syllable: ta-RAN-chu-la."
       }
     ],
     "partOfSpeech": "Noun",
     "regionSpecificDifferences": {
-      "Note": "Pronunciation is generally consistent"
+      "US": "'tu' becomes 'ch' sound",
+      "UK": "Retains 'tyu' sound"
     }
   },
   {
@@ -1835,32 +1804,29 @@
     "phonetic": "/tsuːˈnɑːmi/",
     "pronunciationVariants": [
       {
-        "variant": "English",
-        "phonetic": "/suːˈnɑːmi/"
+        "variant": "American English",
+        "phonetic": "/tsuːˈnɑːmi/"
       },
       {
-        "variant": "Japanese",
-        "phonetic": "/tsɯnami/"
+        "variant": "British English",
+        "phonetic": "/suːˈnɑːmi/"
       }
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Tsunami",
     "exampleSentences": [
-      "The tsunami caused widespread destruction.",
-      "Tsunami warnings were issued after the earthquake."
+      "The tsunami warning system saved many lives.",
+      "The 2004 tsunami was devastating."
     ],
     "commonMistakes": [
       {
-        "mistake": "Omitting the 't' sound at the beginning.",
-        "tip": "In Japanese, it begins with 'ts', though English often drops this"
-      },
-      {
-        "mistake": "Stressing the wrong syllable.",
-        "tip": "Stress is on the second syllable: tsu-NA-mi"
+        "mistake": "Not pronouncing the initial 't' (saying 'sunami').",
+        "tip": "The 't' should be pronounced: 'tsoo-NAH-mee'."
       }
     ],
     "partOfSpeech": "Noun",
     "regionSpecificDifferences": {
-      "Note": "The Japanese pronunciation includes the initial 'ts' sound"
+      "US": "Initial 'ts' sound pronounced",
+      "UK": "Initial 't' often silent"
     }
   },
   {
@@ -1868,7 +1834,11 @@
     "phonetic": "/ˈtɒksɪk/",
     "pronunciationVariants": [
       {
-        "variant": "Standard",
+        "variant": "American English",
+        "phonetic": "/ˈtɑːksɪk/"
+      },
+      {
+        "variant": "British English",
         "phonetic": "/ˈtɒksɪk/"
       }
     ],
@@ -1879,17 +1849,14 @@
     ],
     "commonMistakes": [
       {
-        "mistake": "Pronouncing it as 'tock-sick'.",
-        "tip": "The 'o' is short like in 'box': 'TOX-ic'"
-      },
-      {
         "mistake": "Stressing the wrong syllable.",
-        "tip": "Stress is on the first syllable: TOX-ic"
+        "tip": "Stress is on the first syllable: TOX-ic."
       }
     ],
     "partOfSpeech": "Adjective",
     "regionSpecificDifferences": {
-      "Note": "Pronunciation is generally consistent"
+      "US": "First vowel is /ɑː/",
+      "UK": "First vowel is /ɒ/"
     }
   },
   {
@@ -1897,28 +1864,29 @@
     "phonetic": "/juːˈtɛnsəl/",
     "pronunciationVariants": [
       {
-        "variant": "Standard",
+        "variant": "American English",
+        "phonetic": "/juːˈtɛnsəl/"
+      },
+      {
+        "variant": "British English",
         "phonetic": "/juːˈtɛnsəl/"
       }
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Utensil",
     "exampleSentences": [
-      "The kitchen utensil drawer was well organized.",
-      "We need eating utensils for the picnic."
+      "Grab a cooking utensil from the drawer.",
+      "Plastic utensils are convenient for picnics."
     ],
     "commonMistakes": [
       {
         "mistake": "Pronouncing it as 'uten-sill' with stress on first syllable.",
-        "tip": "Stress is on the second syllable: u-TEN-sil"
-      },
-      {
-        "mistake": "Omitting the 'u' sound at the beginning.",
-        "tip": "It begins with 'you' sound: 'you-TEN-sil'"
+        "tip": "Stress is on the second syllable: u-TEN-sil."
       }
     ],
     "partOfSpeech": "Noun",
     "regionSpecificDifferences": {
-      "Note": "Pronunciation is generally consistent"
+      "US": "Same as UK pronunciation",
+      "UK": "Same as US pronunciation"
     }
   },
   {
@@ -1926,28 +1894,29 @@
     "phonetic": "/ˈvɛdʒtəbəl/",
     "pronunciationVariants": [
       {
-        "variant": "Standard",
+        "variant": "American English",
         "phonetic": "/ˈvɛdʒtəbəl/"
+      },
+      {
+        "variant": "British English",
+        "phonetic": "/ˈvɛdʒɪtəbəl/"
       }
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Vegetable",
     "exampleSentences": [
-      "Eat more vegetables for better health.",
-      "Carrots are my favorite vegetable."
+      "Eat your vegetables for good health.",
+      "We grow vegetables in our backyard garden."
     ],
     "commonMistakes": [
       {
-        "mistake": "Pronouncing it as 'veg-e-ta-ble' with four syllables.",
-        "tip": "In natural speech, it's often three syllables: 'veg-ta-ble'"
-      },
-      {
-        "mistake": "Over-pronouncing the 'e' after 'g'.",
-        "tip": "The 'e' is often dropped in connected speech"
+        "mistake": "Adding extra syllables (ve-ge-ta-ble).",
+        "tip": "It's typically three syllables: VEG-ta-ble."
       }
     ],
     "partOfSpeech": "Noun",
     "regionSpecificDifferences": {
-      "Note": "The reduced form is common in casual speech"
+      "US": "Three syllables",
+      "UK": "Four syllables"
     }
   },
   {
@@ -1955,28 +1924,29 @@
     "phonetic": "/ˈvʌlnərəbəl/",
     "pronunciationVariants": [
       {
-        "variant": "Standard",
+        "variant": "American English",
+        "phonetic": "/ˈvʌlnərəbəl/"
+      },
+      {
+        "variant": "British English",
         "phonetic": "/ˈvʌlnərəbəl/"
       }
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Vulnerable",
     "exampleSentences": [
-      "The system is vulnerable to attacks.",
-      "She felt vulnerable sharing her feelings."
+      "The system is vulnerable to cyber attacks.",
+      "Children are particularly vulnerable to this disease."
     ],
     "commonMistakes": [
       {
-        "mistake": "Omitting the first 'l' sound.",
-        "tip": "It's 'VUL-ner-a-ble' - all letters are pronounced"
-      },
-      {
-        "mistake": "Stressing the wrong syllable.",
-        "tip": "Stress is on the first syllable: VUL-ner-a-ble"
+        "mistake": "Pronouncing the 'l' after the 'v' (vul-ner-a-ble).",
+        "tip": "The first 'l' is silent: 'VUN-er-a-ble'."
       }
     ],
     "partOfSpeech": "Adjective",
     "regionSpecificDifferences": {
-      "Note": "Pronunciation is generally consistent"
+      "US": "Same as UK pronunciation",
+      "UK": "Same as US pronunciation"
     }
   },
   {
@@ -1984,33 +1954,29 @@
     "phonetic": "/ˈjɒɡət/",
     "pronunciationVariants": [
       {
-        "variant": "British English",
-        "phonetic": "/ˈjɒɡət/"
-      },
-      {
         "variant": "American English",
         "phonetic": "/ˈjoʊɡərt/"
+      },
+      {
+        "variant": "British English",
+        "phonetic": "/ˈjɒɡət/"
       }
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Yogurt",
     "exampleSentences": [
       "I eat yogurt with fruit for breakfast.",
-      "This yogurt has live cultures."
+      "Greek yogurt has more protein than regular yogurt."
     ],
     "commonMistakes": [
       {
-        "mistake": "Pronouncing it as 'yo-gurt' with equal stress.",
-        "tip": "Stress is on the first syllable: YO-gurt"
-      },
-      {
-        "mistake": "Adding extra syllables.",
-        "tip": "It's two syllables in most pronunciations"
+        "mistake": "Pronouncing the 'g' as a hard 'g' (like in 'go').",
+        "tip": "The 'g' is soft, like in 'gel'."
       }
     ],
     "partOfSpeech": "Noun",
     "regionSpecificDifferences": {
-      "US": "Often pronounced with an 'oh' sound: 'YO-ghurt'",
-      "UK": "Typically pronounced with short 'o': 'YOG-urt'"
+      "US": "First vowel is /oʊ/, stronger 'r' at end",
+      "UK": "First vowel is /ɒ/, softer or absent 'r' at end"
     }
   },
   {
@@ -2018,32 +1984,29 @@
     "phonetic": "/zuːˈkiːni/",
     "pronunciationVariants": [
       {
-        "variant": "Standard",
+        "variant": "American English",
         "phonetic": "/zuːˈkiːni/"
       },
       {
-        "variant": "Italian",
-        "phonetic": "/dzukˈkiːni/"
+        "variant": "British English",
+        "phonetic": "/zuːˈkiːni/"
       }
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Zucchini",
     "exampleSentences": [
-      "We grew zucchini in our garden.",
-      "Zucchini bread is delicious."
+      "We grew zucchini in our garden this year.",
+      "Zucchini bread is a delicious way to use extra zucchini."
     ],
     "commonMistakes": [
       {
         "mistake": "Pronouncing it as 'zoo-chee-nee'.",
-        "tip": "It's 'zoo-KEE-nee' - the 'ch' is a hard 'k' sound"
-      },
-      {
-        "mistake": "Stressing the wrong syllable.",
-        "tip": "Stress is on the second syllable: zoo-KEE-nee"
+        "tip": "It's 'zoo-KEE-nee' - stress on the second syllable."
       }
     ],
     "partOfSpeech": "Noun",
     "regionSpecificDifferences": {
-      "Note": "The Italian pronunciation differs"
+      "US": "Same as UK pronunciation",
+      "UK": "Same as US pronunciation"
     }
   },
   {
@@ -2051,57 +2014,29 @@
     "phonetic": "/əˈbɒlɪʃ/",
     "pronunciationVariants": [
       {
-        "variant": "Standard",
+        "variant": "American English",
+        "phonetic": "/əˈbɑːlɪʃ/"
+      },
+      {
+        "variant": "British English",
         "phonetic": "/əˈbɒlɪʃ/"
       }
     ],
     "hearItNowUrl": "https://quickpronounce.site/term/Abolish",
     "exampleSentences": [
-      "They want to abolish the outdated law.",
-      "Slavery was abolished in the 19th century."
+      "The government voted to abolish the outdated law.",
+      "Many activists want to abolish the death penalty."
     ],
     "commonMistakes": [
       {
-        "mistake": "Stressing the first syllable.",
-        "tip": "Stress is on the second syllable: a-BOL-ish"
-      },
-      {
-        "mistake": "Pronouncing the 'o' as long.",
-        "tip": "The 'o' is short like in 'lot'"
+        "mistake": "Stressing the wrong syllable.",
+        "tip": "Stress is on the second syllable: a-BOL-ish."
       }
     ],
     "partOfSpeech": "Verb",
     "regionSpecificDifferences": {
-      "Note": "Pronunciation is generally consistent"
-    }
-  },
-  {
-    "term": "Anonymous",
-    "phonetic": "/əˈnɒnɪməs/",
-    "pronunciationVariants": [
-      {
-        "variant": "Standard",
-        "phonetic": "/əˈnɒnɪməs/"
-      }
-    ],
-    "hearItNowUrl": "https://quickpronounce.site/term/Anonymous",
-    "exampleSentences": [
-      "The donation was made by an anonymous benefactor.",
-      "She posted the comment anonymously."
-    ],
-    "commonMistakes": [
-      {
-        "mistake": "Pronouncing it as 'an-on-ee-mus'.",
-        "tip": "It's 'a-NON-i-mus' - the 'y' is short 'i' sound"
-      },
-      {
-        "mistake": "Stressing the wrong syllable.",
-        "tip": "Stress is on the second syllable: a-NON-i-mus"
-      }
-    ],
-    "partOfSpeech": "Adjective",
-    "regionSpecificDifferences": {
-      "Note": "Pronunciation is generally consistent"
+      "US": "First vowel is /ɑː/",
+      "UK": "First vowel is /ɒ/"
     }
   },
   {
